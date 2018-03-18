@@ -1,0 +1,51 @@
+{
+  "id": "06b0ab28-c48e-43b1-92a1-66d7139eede7",
+  "name": "item.selected",
+  "auto": true,
+  "contexts": [
+    "list_selection",
+    "list_body"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "item.selected",
+      "affectedContexts": [
+        {
+          "name": "list_selection",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "list_body",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "vote_context",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "item_selected_context",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519735346,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_OPTION"
+    }
+  ]
+}

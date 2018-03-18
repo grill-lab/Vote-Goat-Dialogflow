@@ -1,0 +1,49 @@
+{
+  "id": "10ab295b-6db9-4b0c-b1b5-84aed32d182c",
+  "name": "Training",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Training",
+      "affectedContexts": [
+        {
+          "name": "vote_context",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "forward_genre",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c6595ebd-de22-4671-a281-92a8c586acdc",
+          "required": false,
+          "dataType": "@movieGenre",
+          "name": "movieGenre",
+          "value": "$movieGenre",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1512420316,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a47c9cf2-b8a6-46dd-b593-1756d9c5f27b",
+  "name": "handle_no_contexts",
+  "auto": false,
+  "contexts": [
+    "handle_no_contexts"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "handle_no_contexts.Fallback",
+      "affectedContexts": [
+        {
+          "name": "handle_no_contexts",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1513104706,
+  "fallbackIntent": true,
+  "events": [
+    {
+      "name": "actions_intent_NO_INPUT"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "d07ed1f7-90da-4475-b796-4d15e2ea859a",
+  "name": "recommend_movie",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "recommend_movie",
+      "affectedContexts": [
+        {
+          "name": "list_selection",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "list_body",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "recommend_movie_context",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "92a47692-5d84-4eaa-97d2-b79e3212e951",
+          "required": false,
+          "dataType": "@movieGenre",
+          "name": "movieGenre",
+          "value": "$movieGenre",
+          "isList": true
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519735882,
+  "fallbackIntent": false,
+  "events": []
+}

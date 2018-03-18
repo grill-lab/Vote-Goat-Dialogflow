@@ -1,0 +1,389 @@
+[
+  {
+    "value": "Thriller",
+    "synonyms": [
+      "Thriller",
+      "close call",
+      "shocker",
+      "shocking",
+      "anxiety",
+      "suspense",
+      "apprehension",
+      "doubt",
+      "insecurity",
+      "tension",
+      "uncertainty",
+      "hesitation"
+    ]
+  },
+  {
+    "value": "Crime",
+    "synonyms": [
+      "Crime",
+      "corruption",
+      "atrocity",
+      "case",
+      "court",
+      "lawlessness",
+      "misconduct",
+      "misdeed",
+      "scandal",
+      "violation",
+      "criminal",
+      "illegal",
+      "antisocial",
+      "misconduct",
+      "transgression",
+      "wrongdoing"
+    ]
+  },
+  {
+    "value": "Drama",
+    "synonyms": [
+      "Drama",
+      "emotion",
+      "tragedy",
+      "Psychodrama",
+      "Docudrama",
+      "Historical drama",
+      "Melodrama",
+      "political drama",
+      "courtroom drama",
+      "domestic drama"
+    ]
+  },
+  {
+    "value": "Musical",
+    "synonyms": [
+      "Musical",
+      "melodic",
+      "operatic",
+      "rythmic",
+      "symphonic",
+      "vocal",
+      "melodious",
+      "harmony",
+      "harmonious",
+      "orchestral",
+      "singing",
+      "songs",
+      "tune",
+      "rockumentary"
+    ]
+  },
+  {
+    "value": "Mystery",
+    "synonyms": [
+      "Mystery",
+      "conundrum",
+      "enigma",
+      "problem",
+      "riddle",
+      "secrecy",
+      "secret",
+      "subtlety",
+      "charade",
+      "cryptogram",
+      "secret society",
+      "conspiracy",
+      "occult",
+      "oracle",
+      "perplexity",
+      "puzzlement"
+    ]
+  },
+  {
+    "value": "Romance",
+    "synonyms": [
+      "romantic",
+      "love",
+      "romance",
+      "charming",
+      "corny",
+      "passionate",
+      "relationship",
+      "break-up"
+    ]
+  },
+  {
+    "value": "Horror",
+    "synonyms": [
+      "Horror",
+      "disgust",
+      "dread",
+      "fright",
+      "hatred",
+      "panic",
+      "terror",
+      "abomination",
+      "monster",
+      "murder",
+      "evil",
+      "loathing",
+      "monstrosity",
+      "dismay",
+      "scary",
+      "scared",
+      "upsetting",
+      "unsettling"
+    ]
+  },
+  {
+    "value": "Short",
+    "synonyms": [
+      "Short",
+      "brief",
+      "fleeting"
+    ]
+  },
+  {
+    "value": "Western",
+    "synonyms": [
+      "Western",
+      "cowboy",
+      "spaghetti western",
+      "bandits",
+      "native americans",
+      "settlers",
+      "rancher",
+      "sherrif",
+      "gunslinger"
+    ]
+  },
+  {
+    "value": "Fantasy",
+    "synonyms": [
+      "fantasy",
+      "magic",
+      "supernatural",
+      "mythology",
+      "folklore",
+      "myth",
+      "wonder",
+      "escapism",
+      "extraordinary",
+      "High Fantasy",
+      "Sword and Sorcer"
+    ]
+  },
+  {
+    "value": "Comedy",
+    "synonyms": [
+      "comedy",
+      "stand-up",
+      "stand up",
+      "funny",
+      "laugh",
+      "comedian",
+      "satire",
+      "sitcom",
+      "fun",
+      "slapstick",
+      "witty",
+      "jest",
+      "jokes",
+      "farce",
+      "humour",
+      "mockumentary"
+    ]
+  },
+  {
+    "value": "Animation",
+    "synonyms": [
+      "comic",
+      "cartoon",
+      "anime",
+      "manga",
+      "drawn",
+      "animated",
+      "3d",
+      "Rotoscoping",
+      "stop motion",
+      "puppet animation",
+      "clay animation",
+      "claymation",
+      "Pixilation",
+      "Cel-shaded",
+      "Machinima",
+      "Motion capture",
+      "Animatronic",
+      "Chuckimation",
+      "Zoetrope",
+      "swashbuckler film"
+    ]
+  },
+  {
+    "value": "Biography",
+    "synonyms": [
+      "Biography",
+      "biopic",
+      "biographical",
+      "auto biopic"
+    ]
+  },
+  {
+    "value": "Adventure",
+    "synonyms": [
+      "adventure",
+      "feat",
+      "trip",
+      "experience",
+      "legend",
+      "survival",
+      "swashbuckler",
+      "pirate",
+      "time travel",
+      "disaster",
+      "epic"
+    ]
+  },
+  {
+    "value": "Action",
+    "synonyms": [
+      "Action",
+      "conflict",
+      "fight",
+      "hero",
+      "chase",
+      "pursuit",
+      "Buddy Cop",
+      "Disaster film",
+      "Martial arts",
+      "Spy",
+      "Spies",
+      "Espionage"
+    ]
+  },
+  {
+    "value": "Documentary",
+    "synonyms": [
+      "Documentary",
+      "Factual",
+      "narrative",
+      "information",
+      "history",
+      "historic",
+      "Observational",
+      "Participatory documentary",
+      "Reflexive documentary",
+      "Performative documentary"
+    ]
+  },
+  {
+    "value": "Sport",
+    "synonyms": [
+      "Sport",
+      "football",
+      "rugby",
+      "tennis",
+      "basketball",
+      "rollerskating",
+      "skateboarding",
+      "baseketball",
+      "soccer",
+      "Cricket",
+      "Athletics",
+      "running",
+      "Rugby",
+      "Formula 1",
+      "Boxing",
+      "Ice Hockey",
+      "Volleyball",
+      "Golf",
+      "American Football",
+      "MMA",
+      "MotoGP",
+      "Field Hockey",
+      "Badminton",
+      "Cycling",
+      "Swimming",
+      "Snooker",
+      "Table Tennis",
+      "Gymnastics",
+      "Handball",
+      "Wrestling",
+      "Skiing",
+      "Horse Racing"
+    ]
+  },
+  {
+    "value": "Sci-Fi",
+    "synonyms": [
+      "science",
+      "sci-fi",
+      "science-fiction",
+      "science \u0026 fiction",
+      "sci fi",
+      "space",
+      "aliens",
+      "dimensions",
+      "star",
+      "scifi",
+      "black hole",
+      "alternate dimension"
+    ]
+  },
+  {
+    "value": "Family",
+    "synonyms": [
+      "Family",
+      "safe for work",
+      "children",
+      "kids",
+      "child",
+      "friendly",
+      "non-violent",
+      "children\u0027s film",
+      "kid\u0027s film",
+      "toddler",
+      "friendship",
+      "suitable for kids",
+      "suitable for children",
+      "babysit"
+    ]
+  },
+  {
+    "value": "War",
+    "synonyms": [
+      "War",
+      "battle",
+      "bloodshed",
+      "combat",
+      "conflict",
+      "strike",
+      "hostile",
+      "struggle",
+      "warfare",
+      "enemy",
+      "spy",
+      "POW",
+      "deployed",
+      "occupation",
+      "occupier",
+      "terrorism"
+    ]
+  },
+  {
+    "value": "Film-Noir",
+    "synonyms": [
+      "Film-Noir",
+      "black and white",
+      "black-and-white",
+      "dark film",
+      "melodrama",
+      "neo-noir",
+      "German Expressionism",
+      "French poetic realism",
+      "italian neorealism",
+      "art deco",
+      "scenography",
+      "french new wave",
+      "private eye",
+      "femme fatale",
+      "oneiric",
+      "strange",
+      "ambivalent",
+      "cruel"
+    ]
+  }
+]

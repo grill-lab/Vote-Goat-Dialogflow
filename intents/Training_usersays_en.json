@@ -1,0 +1,791 @@
+[
+  {
+    "id": "cca40aea-58e7-4861-8f5f-721db0068a68",
+    "data": [
+      {
+        "text": "let\u0027s train",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "48755be9-412c-48cf-9cc0-8f92375d0c68",
+    "data": [
+      {
+        "text": "I\u0027d like to explore ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1fa0fc57-582e-499e-93c0-0ee460eb51ec",
+    "data": [
+      {
+        "text": "learn my favourite movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "131ad061-88d4-48c3-8991-b5ef61ebcec7",
+    "data": [
+      {
+        "text": "let\u0027s rank some movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dca18edb-bdff-4a36-9f55-94cc1fb10eea",
+    "data": [
+      {
+        "text": "let\u0027s train ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "comedies",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "730c7055-36aa-4e50-bac4-7df37dca7a87",
+    "data": [
+      {
+        "text": "rank ",
+        "userDefined": false
+      },
+      {
+        "text": "sports",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79486458-c89a-4d26-be75-ee15a65fa8ed",
+    "data": [
+      {
+        "text": "i want to rank movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4fe5439-c233-49b3-9de8-09162c32581e",
+    "data": [
+      {
+        "text": "let me tell you my favourite movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d3340d80-3404-4e91-ae86-7ead3b36de70",
+    "data": [
+      {
+        "text": "rank ",
+        "userDefined": false
+      },
+      {
+        "text": "adventure",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4dfedf58-fa0d-4082-a247-ae5657c1d7c5",
+    "data": [
+      {
+        "text": "rank ",
+        "userDefined": false
+      },
+      {
+        "text": "adventure",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "family",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d076f5fe-f592-40fa-b1d1-f7f65241828a",
+    "data": [
+      {
+        "text": "rank ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5e24782d-31c4-404b-bca7-614c8f3275b5",
+    "data": [
+      {
+        "text": "train mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cbd79203-968b-4ff8-8732-63338749f92d",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "war",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "crime",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fa1f6bb5-c7e8-4b4f-8362-309e67c4cddb",
+    "data": [
+      {
+        "text": "vote on ",
+        "userDefined": false
+      },
+      {
+        "text": "space",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cartoons",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "64e96dbf-43bc-4716-9193-9a8eab08f257",
+    "data": [
+      {
+        "text": "rank ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6ef8b3d3-26d0-4c0a-88a2-76d625ae77c1",
+    "data": [
+      {
+        "text": "rank ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b0090b5a-37fb-497d-bfc2-656906b9bee7",
+    "data": [
+      {
+        "text": "rank ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "947242fa-f39d-4dfa-81ed-71362396773e",
+    "data": [
+      {
+        "text": "rank ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "basketball",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "terror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6316f265-d404-4f4f-88ce-380ac766043d",
+    "data": [
+      {
+        "text": "train bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d0d653c4-2529-4119-8994-6040bf57a850",
+    "data": [
+      {
+        "text": "rank movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9bcf85ed-518c-4876-b835-66278b99cf2b",
+    "data": [
+      {
+        "text": "let me rank movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2cb989b9-7a39-469c-a860-bd73a15ec922",
+    "data": [
+      {
+        "text": "rank ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5b0c7f88-a43e-4be0-95f0-595a71a201c3",
+    "data": [
+      {
+        "text": "I will like to rank ",
+        "userDefined": false
+      },
+      {
+        "text": "historic",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "77166c81-c25a-4f78-8748-45206167b5e1",
+    "data": [
+      {
+        "text": "rank movies which are classified as ",
+        "userDefined": false
+      },
+      {
+        "text": "horrors",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d9abaa3a-bb46-48f3-8b7c-29ccae436733",
+    "data": [
+      {
+        "text": "rank ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "space",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e4ed4800-b5dc-4222-9c84-a7cc24027347",
+    "data": [
+      {
+        "text": "rank ",
+        "userDefined": false
+      },
+      {
+        "text": "thriller",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "24675b4f-a9ca-4003-becd-d14e26e83bff",
+    "data": [
+      {
+        "text": "rank movies with the genres ",
+        "userDefined": false
+      },
+      {
+        "text": "action",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d842e342-6fe3-4bcf-940b-d139640e53c4",
+    "data": [
+      {
+        "text": "i wish to rank movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "577cdb28-bd1b-41f3-ac21-f482b4469f2c",
+    "data": [
+      {
+        "text": "training",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0f5f5a1f-804a-4dec-9f06-6422df2d76cb",
+    "data": [
+      {
+        "text": "learn movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ad5e6428-0da5-4e07-94bd-8a22c5df23d8",
+    "data": [
+      {
+        "text": " 🗳 Rank Movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4dcdbbe-d031-4752-9381-8c9e6b9b20e4",
+    "data": [
+      {
+        "text": "rank mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f7a7124-2afe-4ff8-9e46-1ed227b9dc24",
+    "data": [
+      {
+        "text": "rank ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f32cf78c-8ba4-4af4-87d6-bc4ea5aa9a47",
+    "data": [
+      {
+        "text": "rank ",
+        "userDefined": false
+      },
+      {
+        "text": "animation",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "family",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8e9cc8c5-9937-4dc1-8801-6f40ed1431f2",
+    "data": [
+      {
+        "text": "rank ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "family",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "friendly",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

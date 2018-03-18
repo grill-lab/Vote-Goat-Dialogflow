@@ -1,0 +1,41 @@
+{
+  "id": "254aeea1-fced-4c65-8c71-9e4b06404db1",
+  "name": "getHelpAnywhere.Fallback",
+  "auto": false,
+  "contexts": [
+    "help_anywhere"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getHelpAnywhere.Fallback",
+      "affectedContexts": [
+        {
+          "name": "help_anywhere",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1513103285,
+  "fallbackIntent": true,
+  "events": [
+    {
+      "name": "actions_intent_NO_INPUT"
+    }
+  ]
+}

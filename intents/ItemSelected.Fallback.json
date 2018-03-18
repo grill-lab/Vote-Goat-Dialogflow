@@ -1,0 +1,53 @@
+{
+  "id": "ce929a0f-a05b-4d88-962f-e09e5988eeae",
+  "name": "ItemSelected.Fallback",
+  "auto": false,
+  "contexts": [
+    "vote_context",
+    "list_body",
+    "item_selected_context"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ItemSelected.Fallback",
+      "affectedContexts": [
+        {
+          "name": "vote_context",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "list_body",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "item_selected_context",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1512411659,
+  "fallbackIntent": true,
+  "events": [
+    {
+      "name": "actions_intent_NO_INPUT"
+    }
+  ]
+}

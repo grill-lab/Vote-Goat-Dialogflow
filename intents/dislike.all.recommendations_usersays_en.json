@@ -1,0 +1,324 @@
+[
+  {
+    "id": "70b03d3e-d711-463f-a889-22e3db01c81b",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "don\u0027t like",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " any of these movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442532
+  },
+  {
+    "id": "f91e4381-61ad-41d0-8607-bc192c91f5d0",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "dislike",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " these movie recommendations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f3d6b4a-3033-4d0e-92fd-33ba51cbefe7",
+    "data": [
+      {
+        "text": "Downvote",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " all of these movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442532
+  },
+  {
+    "id": "70169673-95a5-4627-85d3-bf7c88b0fb77",
+    "data": [
+      {
+        "text": "Give me different recommendations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442532
+  },
+  {
+    "id": "7be4f773-f59f-4fa5-af8a-f985f6bee8dd",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "dislike",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " all of the suggested movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c99b8f2f-2e33-41ae-a104-66bde1b7d75b",
+    "data": [
+      {
+        "text": "These suggested movies are not ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb6a4e79-82e9-4c5f-b358-432247703c0d",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "don\u0027t like",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "sound",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of those ",
+        "userDefined": false
+      },
+      {
+        "text": "three",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442532
+  },
+  {
+    "id": "f611280e-8483-44f9-84c1-2779e24014c6",
+    "data": [
+      {
+        "text": "All of these movie suggestions are bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8c8b338a-c1b6-4bb3-a431-f779f515cf9e",
+    "data": [
+      {
+        "text": "I\u0027m not interested in these movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442532
+  },
+  {
+    "id": "cd281ed1-3e58-4f1f-a9b3-9efc81eef91c",
+    "data": [
+      {
+        "text": "none of the above",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442532
+  },
+  {
+    "id": "e74d1ee6-1a39-41f0-879a-9e389a0d7d4e",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "don\u0027t like",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " any of these recommendations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442532
+  },
+  {
+    "id": "53c3432e-614d-4d4b-b873-4828bf0a3dcb",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "don\u0027t like",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " any of the suggested movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3604c9ea-d5d8-4e43-8f34-e32b68b1a3a7",
+    "data": [
+      {
+        "text": "downvote",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " all of these movie recommendations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79b1ba96-d462-45f1-bd9b-2efa61257b58",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "not interested",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " in any of these recommended movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f78bbbe3-0340-472a-ac86-ae1edc4df7e3",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "wouldn\u0027t",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " watch those movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442532
+  },
+  {
+    "id": "796a0a45-0292-4815-8c19-fb7e6055ce27",
+    "data": [
+      {
+        "text": "Recommend me different movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512442532
+  },
+  {
+    "id": "b0e13977-316f-4af0-bbef-8737042c1f72",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "dislike",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " these movie suggestions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

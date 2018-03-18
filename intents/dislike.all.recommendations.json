@@ -1,0 +1,52 @@
+{
+  "id": "2461a723-1809-4fe0-9b17-49b3dd822195",
+  "name": "dislike.all.recommendations",
+  "auto": true,
+  "contexts": [
+    "list_body",
+    "recommend_movie_context"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "dislike.all.recommendations",
+      "affectedContexts": [
+        {
+          "name": "list_body",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "recommend_movie_context",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "700e8c9c-4653-429a-90d7-04f8f3c426ad",
+          "required": false,
+          "dataType": "@voting",
+          "name": "voting",
+          "value": "$voting",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512442532,
+  "fallbackIntent": false,
+  "events": []
+}

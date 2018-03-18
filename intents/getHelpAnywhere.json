@@ -1,0 +1,35 @@
+{
+  "id": "d86effb6-b037-4011-aba4-84e2f7930112",
+  "name": "getHelpAnywhere",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getHelpAnywhere",
+      "affectedContexts": [
+        {
+          "name": "help_anywhere",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519735312,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "fbf2c535-590b-4fe8-842e-4df6e9aab554",
+    "data": [
+      {
+        "text": "what do I get for voting on movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e6c628d-be69-420b-89a1-dc5458c5138b",
+    "data": [
+      {
+        "text": "show my leaderboard stats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6201218f-b72a-4c42-ad81-0e148fb61f33",
+    "data": [
+      {
+        "text": "Have I ",
+        "userDefined": false
+      },
+      {
+        "text": "upvoted",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " more than I have ",
+        "userDefined": false
+      },
+      {
+        "text": "downvoted",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "241ec5b1-4181-428f-8e74-1b4d8a746664",
+    "data": [
+      {
+        "text": "show me how many movies that I\u0027ve ranked",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a2e32b43-6082-4205-b6a2-f831a1e2bf56",
+    "data": [
+      {
+        "text": "show me my stats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf3f9716-b1e5-4472-a069-8f694eef5ff8",
+    "data": [
+      {
+        "text": "how do my stats compare to others?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e8f2c33c-3e1e-4d2c-8ec1-ed3bcb823094",
+    "data": [
+      {
+        "text": "how many movies have I voted on?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a1bda74d-10eb-48ee-a9ac-00dbea39e006",
+    "data": [
+      {
+        "text": "what is my leaderboard ranking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "91244be7-963b-4520-81d8-f59a62e1ca76",
+    "data": [
+      {
+        "text": "how many movies have I ranked?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7263193a-a95d-4225-83ae-cbab5337a8a9",
+    "data": [
+      {
+        "text": "how many movies have I ",
+        "userDefined": false
+      },
+      {
+        "text": "downvoted",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c4b3cf86-3fe5-4716-8893-63ac5e3aee40",
+    "data": [
+      {
+        "text": "Have I ",
+        "userDefined": false
+      },
+      {
+        "text": "downvoted",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " more than I have ",
+        "userDefined": false
+      },
+      {
+        "text": "upvoted",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4b64e161-fba2-4911-b004-b3dea5badffa",
+    "data": [
+      {
+        "text": "Am I winning yet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d4f9ae17-14c5-417b-8646-989458974ed4",
+    "data": [
+      {
+        "text": "what are my stats?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d192ad08-07c0-4927-8cc0-490037d5adf5",
+    "data": [
+      {
+        "text": "🏆 Show Stats",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "0507dacf-6dea-4ee0-bef5-0acb294513d5",
+    "data": [
+      {
+        "text": "how do I compare to other users?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c00e11d9-5085-4f76-a967-eb3f62863f6e",
+    "data": [
+      {
+        "text": "show my statistics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9e9b7795-8354-4674-9a75-41528bc748e1",
+    "data": [
+      {
+        "text": "what are my achievements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c8c28888-9582-4b41-8921-564a1984c28e",
+    "data": [
+      {
+        "text": "what have I achieved",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dba13ae4-da65-44ef-a0d2-4ad69b45114b",
+    "data": [
+      {
+        "text": "how many movies have I ",
+        "userDefined": false
+      },
+      {
+        "text": "upvoted",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b255d518-6c1c-41c7-aed5-b2b7865afb94",
+    "data": [
+      {
+        "text": "what do I get for ranking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

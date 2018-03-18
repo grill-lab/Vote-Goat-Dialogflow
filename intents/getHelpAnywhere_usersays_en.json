@@ -1,0 +1,208 @@
+[
+  {
+    "id": "db7f9c88-4e82-4056-9092-4bb9878ee58f",
+    "data": [
+      {
+        "text": "what does vote goat want me to say next?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5c454a23-255e-47ad-bdb0-ac77d6c7e254",
+    "data": [
+      {
+        "text": "what commands does vote goat understand?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b842267e-912e-4908-903a-66da8648f7c5",
+    "data": [
+      {
+        "text": "can you tell me what I can do next?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c9d8de7d-fcf4-4ea1-a174-2bbbe784b6e6",
+    "data": [
+      {
+        "text": "What functionality is there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512517978
+  },
+  {
+    "id": "759da6d2-8ff2-46f3-ab20-6a10275ea5e7",
+    "data": [
+      {
+        "text": "What should I do next?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512517978
+  },
+  {
+    "id": "e4f460ae-3f18-4b99-bbfc-1134e6f7c93e",
+    "data": [
+      {
+        "text": "what can vote goat do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a4d5e789-4e92-417d-9153-2e3977cb296a",
+    "data": [
+      {
+        "text": "What can I do in this app?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512517978
+  },
+  {
+    "id": "7d44bfb3-9355-448f-b831-66c69059d16d",
+    "data": [
+      {
+        "text": "What can I do in this bot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512517978
+  },
+  {
+    "id": "4cdf5de3-c262-47f7-bd08-df752ed48497",
+    "data": [
+      {
+        "text": "learn how to use vote goat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1edbfc20-2e73-4068-9fd7-5f4e6d9944ef",
+    "data": [
+      {
+        "text": "help ",
+        "userDefined": false
+      },
+      {
+        "text": "I don\u0027t know",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " what to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "31e4ebf9-c299-41d7-9ded-14f0bbddd883",
+    "data": [
+      {
+        "text": "📑 Help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "abccd3e5-7e8f-435e-aaa0-e38a0eecba1c",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68862a3d-9b34-47b2-bc61-1540a2e0b762",
+    "data": [
+      {
+        "text": "I don\u0027t know",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " what to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3142a15a-b577-4d55-9abe-ce460a9a4df6",
+    "data": [
+      {
+        "text": "what can I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f4c6088-8e60-43c6-a264-9fa0fdc44e5c",
+    "data": [
+      {
+        "text": "tell me what I can do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a947dc9d-b799-4e5b-813f-0dd647997dc4",
+    "data": [
+      {
+        "text": "What can I do next?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512517978
+  },
+  {
+    "id": "a52f0557-bd2e-4035-a07c-491807af8f53",
+    "data": [
+      {
+        "text": "what should I say to vote goat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,1009 @@
+[
+  {
+    "id": "e1955143-fd64-44d4-8c27-8ae60b218c26",
+    "data": [
+      {
+        "text": "what are the top ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": true
+      },
+      {
+        "text": " films of all time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dfa5db29-cf17-440c-9c1d-292f199a7316",
+    "data": [
+      {
+        "text": "top ",
+        "userDefined": false
+      },
+      {
+        "text": "ten",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films of all time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8b8c5db2-9c16-4169-9dbf-666d3512c5a8",
+    "data": [
+      {
+        "text": "highest ranked ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0d22f15a-c94f-419c-a1d9-2f78b87d6517",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "best",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies of all time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd35798c-a460-4b1f-bd05-5b3ba96a2619",
+    "data": [
+      {
+        "text": "greatest ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies of all time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "946f1bfb-3432-444b-b0e0-90cb687cafb6",
+    "data": [
+      {
+        "text": "greatest of all time ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "017f1585-0f56-473c-8806-d051874f1e9d",
+    "data": [
+      {
+        "text": "greatest of all time ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2b5089a1-1155-45b6-a3c8-cce67f773ccb",
+    "data": [
+      {
+        "text": "greatest ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " whilst ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies of all time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e26287f-2ac6-4e0b-b20b-0eb1ef657db9",
+    "data": [
+      {
+        "text": "show me the goat ",
+        "userDefined": false
+      },
+      {
+        "text": "action",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "358bbff4-a621-4f59-be5c-f98ed4a170d4",
+    "data": [
+      {
+        "text": "retrieve the goat ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "family",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b75e8ad7-219a-4eb5-b014-fa1d84d8b883",
+    "data": [
+      {
+        "text": "GOAT ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1c1716d-17c8-4337-84e7-ca940a6d85d8",
+    "data": [
+      {
+        "text": "best",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films of all time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "76015070-e1cd-42c8-bcbe-176ff6447474",
+    "data": [
+      {
+        "text": "greatest ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films of all time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dfc17a39-7347-456d-a554-b9538a3dea26",
+    "data": [
+      {
+        "text": "get GOAT ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fd239458-50d2-43cd-9420-55f57ea7537e",
+    "data": [
+      {
+        "text": "what are the top ",
+        "userDefined": false
+      },
+      {
+        "text": "ten",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies of all time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "271c4e14-12fa-4b4f-8bfa-86fcab972640",
+    "data": [
+      {
+        "text": "I want the goat ",
+        "userDefined": false
+      },
+      {
+        "text": "action",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "romance",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9218e6da-14c9-4d4d-ba74-f09cad3696c0",
+    "data": [
+      {
+        "text": "get GOAT ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b60370d4-225f-454d-bb55-8acbbb4382ad",
+    "data": [
+      {
+        "text": "what are the greatest ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "friendly",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "space",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies of all time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "86db7502-d79c-4bb9-8b54-394904126a22",
+    "data": [
+      {
+        "text": "What are the top ",
+        "userDefined": false
+      },
+      {
+        "text": "action",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": true
+      },
+      {
+        "text": " movies of all time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db32dc00-efec-4d92-9506-b9e7d4f8f597",
+    "data": [
+      {
+        "text": "what are the most ",
+        "userDefined": false
+      },
+      {
+        "text": "upvoted",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6af61c05-45a0-4162-8dd6-2b1b9e32c577",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films are most ",
+        "userDefined": false
+      },
+      {
+        "text": "upvoted",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " by the vote goat userbase?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "89633c44-11da-4e8c-9d51-0ecd244c5301",
+    "data": [
+      {
+        "text": "what are the most liked ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5ac0792d-dd41-4992-b5b4-d31cf0d1b8bc",
+    "data": [
+      {
+        "text": "What are the greatest ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "829e8f15-b44f-4660-9321-9006de8ee4fc",
+    "data": [
+      {
+        "text": "What are the GOAT movies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512840376
+  },
+  {
+    "id": "cdfd17c8-c7e0-4101-a4f1-b7bc4921d974",
+    "data": [
+      {
+        "text": "I want to see the goat ",
+        "userDefined": false
+      },
+      {
+        "text": "historic",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "322a78b3-9e31-43a9-aa51-7db09c2d5235",
+    "data": [
+      {
+        "text": "goat ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "ab48b538-3d93-485a-8b20-7433bff57986",
+    "data": [
+      {
+        "text": "Can you show me the greatest ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67062a29-889d-4294-9fdb-de02434bf592",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "actions",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "romantic",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " type goat movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0e363c14-8aa6-4c58-8089-b1023f510e65",
+    "data": [
+      {
+        "text": "What are the highest rated ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies of all time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cc4850ed-58b5-4370-9003-46a217293103",
+    "data": [
+      {
+        "text": "GOAT ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "family",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "90a5b9d6-b7f6-4870-a8e7-5f3c0c6238b5",
+    "data": [
+      {
+        "text": "What are the goat movies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512840376
+  },
+  {
+    "id": "6cf757f0-ff63-4b3e-b55e-0a8e4e13d80f",
+    "data": [
+      {
+        "text": "what are the greatest ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": true
+      },
+      {
+        "text": " films of all time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "eec9279b-c2ca-486a-9ad5-58087253bc80",
+    "data": [
+      {
+        "text": "Show me the goat movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "e7ef675f-09a9-4a26-9e38-5e3dbd476ed6",
+    "data": [
+      {
+        "text": "Show me the goat ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "family",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "102b59e7-c8f5-4284-887c-9d0f10213e7a",
+    "data": [
+      {
+        "text": "What are the goat ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512840376
+  },
+  {
+    "id": "866cf4db-b270-42cb-8caf-e1bee92a9d21",
+    "data": [
+      {
+        "text": "What are the greatest of all time movies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512840376
+  },
+  {
+    "id": "167ba10a-6e5b-449b-8c6f-08b9e2e91ead",
+    "data": [
+      {
+        "text": "What are the goat ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1512840376
+  }
+]

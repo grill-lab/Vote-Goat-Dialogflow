@@ -1,0 +1,51 @@
+{
+  "id": "910aed32-1a04-4b1c-8d25-865482f647de",
+  "name": "Training.Fallback",
+  "auto": false,
+  "contexts": [
+    "vote_context"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Training.Fallback",
+      "affectedContexts": [
+        {
+          "name": "vote_context",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "forward_genre",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "forward_genre_more",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1512309059,
+  "fallbackIntent": true,
+  "events": [
+    {
+      "name": "actions_intent_NO_INPUT"
+    }
+  ]
+}

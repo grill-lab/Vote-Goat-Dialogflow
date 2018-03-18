@@ -1,0 +1,1494 @@
+[
+  {
+    "id": "ec80ee82-1bc3-431d-a44e-685ef0fb323a",
+    "data": [
+      {
+        "text": "why not",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": "? it looks ",
+        "userDefined": false
+      },
+      {
+        "text": "alright",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "072c018a-3963-4576-9ac0-6151c94e3647",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "uninterested",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "113d244c-c1ec-4c71-a003-a69a6c2a842b",
+    "data": [
+      {
+        "text": "downvote",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " this movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4300d9e0-f1e3-4d5c-9baf-dd9e5504aa8e",
+    "data": [
+      {
+        "text": "Yes",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "I would watch",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " Shrek",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ffe597d4-bfdb-4e18-b9fb-b8a40d429c72",
+    "data": [
+      {
+        "text": "no",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "975cc466-92c6-41e1-94df-63ab710c5abc",
+    "data": [
+      {
+        "text": "nah",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " man, that\u0027s a ",
+        "userDefined": false
+      },
+      {
+        "text": "garbage",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8d04cdf0-9c01-4748-8990-b9971b01cdf4",
+    "data": [
+      {
+        "text": "I\u0027d ",
+        "userDefined": false
+      },
+      {
+        "text": "maybe",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " watch this movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d0ffc9e3-dd3d-4501-ad15-e72af8d78624",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "like",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " this movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59913f9a-5ac1-4da6-b8d1-94815b03226c",
+    "data": [
+      {
+        "text": "Yes",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "I would watch",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " Die Hard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b4b3a53-fe00-4666-8753-970ba18c7faa",
+    "data": [
+      {
+        "text": "No",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": ", I ",
+        "userDefined": false
+      },
+      {
+        "text": "wouldn\u0027t",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " watch Finding Nemo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b182fd6-5e45-441c-ab82-ee6503d397f8",
+    "data": [
+      {
+        "text": "that\u0027s a load of ",
+        "userDefined": false
+      },
+      {
+        "text": "crap",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d9e50a2e-8c96-41ce-8ece-9cbb35a9145f",
+    "data": [
+      {
+        "text": "👍",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1af89983-0a39-48ce-8937-ac01462a435c",
+    "data": [
+      {
+        "text": "maybe",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cf2a4e83-d0b0-4be2-ae2d-c49b95de4b68",
+    "data": [
+      {
+        "text": "upvote",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "659101a5-44bf-43e9-96ad-c920076f059d",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "don\u0027t like",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " this movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c448e4e7-d443-4885-b316-7d1997dab7fb",
+    "data": [
+      {
+        "text": "nah",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " man, that\u0027s an ",
+        "userDefined": false
+      },
+      {
+        "text": "awful",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e2a986c-ae49-43a4-9d2e-39828ed41bee",
+    "data": [
+      {
+        "text": "certainly",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": ", it\u0027s a ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "70e1c7ad-d36b-4a71-91ba-ea479c07dd84",
+    "data": [
+      {
+        "text": "amen",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " brother, this is an ",
+        "userDefined": false
+      },
+      {
+        "text": "excellent",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " movie!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c151741c-0466-48a2-9506-9cd0b3701ce6",
+    "data": [
+      {
+        "text": "ya",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": ", I\u0027d consider watching",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b75615c8-cb39-4832-83ad-7bc7adbb84dc",
+    "data": [
+      {
+        "text": "hell ",
+        "userDefined": false
+      },
+      {
+        "text": "yeah",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": ", I\u0027ll watch that movie for ",
+        "userDefined": false
+      },
+      {
+        "text": "sure",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "81754854-0e5a-4349-bc79-12342e62847a",
+    "data": [
+      {
+        "text": "nay",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": ", it\u0027s a ",
+        "userDefined": false
+      },
+      {
+        "text": "terrible",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " film",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a3ca9e7d-c116-403f-a68d-b18df697e301",
+    "data": [
+      {
+        "text": "nah",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "I\u0027d never",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " consider watching",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1228daf1-d26b-459e-bf8b-c063cc64a787",
+    "data": [
+      {
+        "text": "yes",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83eb1fc9-b482-40ec-af70-d683d3e7f39f",
+    "data": [
+      {
+        "text": "no thanks, I\u0027m not interested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "577813ac-8017-411c-9e8f-01c0122c40d0",
+    "data": [
+      {
+        "text": "Pigs will fly",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " before I watch this movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "818fdf83-99ab-4da4-b03e-4a781e75cb4f",
+    "data": [
+      {
+        "text": "Are you ",
+        "userDefined": false
+      },
+      {
+        "text": "joking",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4afc585a-2107-4aba-9fef-232cae8c29fd",
+    "data": [
+      {
+        "text": "yes ",
+        "userDefined": false
+      },
+      {
+        "text": "I would",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " watch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dce23a27-51ec-4c45-80ea-edf4ce944479",
+    "data": [
+      {
+        "text": "It looks ",
+        "userDefined": false
+      },
+      {
+        "text": "like",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "terrible",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "99c68e12-27d7-4ea8-a458-0e0ad24c2e91",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "hate",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " movies like this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4fef45c1-9349-48e7-a0ee-54bd8d5ea0ca",
+    "data": [
+      {
+        "text": "👎",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e8c46e5-cc75-4185-b573-bf572787343a",
+    "data": [
+      {
+        "text": "this movie deserves a ",
+        "userDefined": false
+      },
+      {
+        "text": "downvote",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c55fc21e-469a-4a38-aefa-8702dbda4b5d",
+    "data": [
+      {
+        "text": "downvote",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "dc45383b-e9dc-45ca-924f-a2a99d104123",
+    "data": [
+      {
+        "text": "never",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " show me this movie again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "729a32a3-8dc9-4356-b18a-6010d55f971f",
+    "data": [
+      {
+        "text": "no",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": ", I ",
+        "userDefined": false
+      },
+      {
+        "text": "wouldn\u0027t",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "93bf51f8-d431-4c88-a876-be2ec95a72e2",
+    "data": [
+      {
+        "text": "never",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " in a million years ",
+        "userDefined": false
+      },
+      {
+        "text": "would",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " I ever watch that movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e619c945-b110-40e4-95f6-9aa92e553cd0",
+    "data": [
+      {
+        "text": "no thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "62a090ff-b046-4d81-ba7c-254cf88d1b4a",
+    "data": [
+      {
+        "text": "No",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": ", I ",
+        "userDefined": false
+      },
+      {
+        "text": "don\u0027t",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " want to watch Oceans Eleven",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "675e030c-b498-49b5-91d5-5273c8380bb5",
+    "data": [
+      {
+        "text": "That\u0027s a ",
+        "userDefined": false
+      },
+      {
+        "text": "shit",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01a7dd43-dd2b-49b8-989c-2248811db7ef",
+    "data": [
+      {
+        "text": "yes",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "I like",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " this movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "095177cd-a9d7-4bf4-8b4f-a546f9769b4f",
+    "data": [
+      {
+        "text": "I\u0027d ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " to watch this film",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5bd6f15c-b2f4-49db-9dd3-68ea102d8731",
+    "data": [
+      {
+        "text": "Yeah",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "I\u0027d watch",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " Finding Nemo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  },
+  {
+    "id": "234c20f4-76ac-4396-928e-fc6a2d90d706",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " that film",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c734dcac-7efd-4d46-8137-a2af6dbc0c72",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "not interested",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " in this movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a43e9ca6-8296-496c-824e-4f01803170e7",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "wouldn\u0027t like",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " this movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dbca4561-15fe-49fb-a3d5-7a90ff2b7150",
+    "data": [
+      {
+        "text": "👇🔻",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": "⤵️📉↘",
+        "userDefined": false
+      },
+      {
+        "text": "️😡",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": "😠👿",
+        "userDefined": false
+      },
+      {
+        "text": "💢😞",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": "😔😣",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": "😩😢",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": "😭😿",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": "🙅😠",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": "🙁",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9a53f1f9-386d-4942-9a8b-6544b8392799",
+    "data": [
+      {
+        "text": "😄😍",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": "😀😁",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": "😄😊",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": "🙂🙃",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": "😜😃",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "😏 😸",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "😺 😂",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "😆 😋",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "🍺",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6fb55d60-e24c-46db-843b-fd5b784ca3cc",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "deteste",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " this movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8ef6eba4-827e-4ef7-add2-1e2e2445b932",
+    "data": [
+      {
+        "text": "No",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": ", I ",
+        "userDefined": false
+      },
+      {
+        "text": "wouldn\u0027t",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " watch Die Hard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4019c890-a2c6-432f-9686-4d2862b86953",
+    "data": [
+      {
+        "text": "never",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in a million years",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " would I consider watching this film",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ce1becf-2658-4d0e-9ecf-fc43fe96d603",
+    "data": [
+      {
+        "text": "I\u0027m interested",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " in watching this movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e33e6b07-97d6-49bd-b9d7-d6f52f405e6e",
+    "data": [
+      {
+        "text": "perhaps",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": ", it sounds ",
+        "userDefined": false
+      },
+      {
+        "text": "alright",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e7e1753e-b5a3-42b3-9807-e86ad4d63168",
+    "data": [
+      {
+        "text": "of ",
+        "userDefined": false
+      },
+      {
+        "text": "course",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": ", I\u0027d ",
+        "userDefined": false
+      },
+      {
+        "text": "love",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " to watch this film",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ddc5990-90c1-4ec9-9fcd-bb1b09c9a3ce",
+    "data": [
+      {
+        "text": "I\u0027ll watch this ",
+        "userDefined": false
+      },
+      {
+        "text": "when pigs fly",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "849f8f95-cd47-4ebd-9955-a8fce072b57a",
+    "data": [
+      {
+        "text": "No",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " I ",
+        "userDefined": false
+      },
+      {
+        "text": "wouldn\u0027t",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " watch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a98a1792-eb70-4409-9dad-23b8e8278870",
+    "data": [
+      {
+        "text": "Yes",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "I would watch",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " Finding Nemo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "94a7ba40-ed82-4029-a2f3-79ad9ae69313",
+    "data": [
+      {
+        "text": "hell ",
+        "userDefined": false
+      },
+      {
+        "text": "no",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": ", I would ",
+        "userDefined": false
+      },
+      {
+        "text": "never",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " watch a movie like this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5764f263-acda-414d-a929-d5b127857833",
+    "data": [
+      {
+        "text": "I\u0027d ",
+        "userDefined": false
+      },
+      {
+        "text": "never",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " watch this movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1f0ea4e0-9d4b-4cd1-8a21-5f846a0743a7",
+    "data": [
+      {
+        "text": "aye",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": ", I\u0027d consider watching that, ",
+        "userDefined": false
+      },
+      {
+        "text": "sure",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "913e165d-d8ed-4a6e-a162-b6dd7f82534e",
+    "data": [
+      {
+        "text": "Surely you are ",
+        "userDefined": false
+      },
+      {
+        "text": "kidding",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " me on?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e95f38e4-1feb-4a89-8c62-284415236c59",
+    "data": [
+      {
+        "text": "that ",
+        "userDefined": false
+      },
+      {
+        "text": "garbage",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " is the ",
+        "userDefined": false
+      },
+      {
+        "text": "worst",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " movie I\u0027ve ever seen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "13ee4a38-5652-4de8-9671-2b1daae6e291",
+    "data": [
+      {
+        "text": "looks ",
+        "userDefined": false
+      },
+      {
+        "text": "like",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "531770c3-78f9-4390-a1a4-322f5fd05dbb",
+    "data": [
+      {
+        "text": "aye",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": ", I\u0027d watch that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7b0f86b1-032b-4c23-b1c3-1da0f3c233c6",
+    "data": [
+      {
+        "text": "I\u0027d ",
+        "userDefined": false
+      },
+      {
+        "text": "gladly",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": " watch this movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1ce228cb-36c9-4c24-aeae-4abc0a7bee25",
+    "data": [
+      {
+        "text": "Are you ",
+        "userDefined": false
+      },
+      {
+        "text": "having a laugh",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": true
+      },
+      {
+        "text": ", mate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

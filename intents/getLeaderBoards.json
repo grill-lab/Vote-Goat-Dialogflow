@@ -1,0 +1,44 @@
+{
+  "id": "fd94f306-6d80-4c9c-b1dc-3a0a98729f93",
+  "name": "getLeaderBoards",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "getLeaderBoards",
+      "affectedContexts": [
+        {
+          "name": "leaderboard",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "80d76506-037b-48e7-b4a5-c8724428f713",
+          "required": false,
+          "dataType": "@voting",
+          "name": "voting",
+          "value": "$voting",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1512513218,
+  "fallbackIntent": false,
+  "events": []
+}

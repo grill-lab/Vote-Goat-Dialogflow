@@ -1,0 +1,57 @@
+{
+  "id": "78bf0421-16fb-4cb6-b84e-583fc54e9d72",
+  "name": "voted",
+  "auto": true,
+  "contexts": [
+    "vote_context"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "voted",
+      "affectedContexts": [
+        {
+          "name": "vote_context",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "forwards_genre",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "forward_genre_more",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4f3953b0-868e-4adc-b70c-ff611af81de2",
+          "required": true,
+          "dataType": "@voting",
+          "name": "voting",
+          "value": "$voting",
+          "prompts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1512175280,
+  "fallbackIntent": false,
+  "events": []
+}

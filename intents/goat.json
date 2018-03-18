@@ -1,0 +1,60 @@
+{
+  "id": "9ce9cf83-024d-435d-aa57-18d43c3fdd4d",
+  "name": "goat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "goat",
+      "affectedContexts": [
+        {
+          "name": "goat",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ed26826d-7b94-4443-833c-e424b3a4b0ff",
+          "required": false,
+          "dataType": "@movieGenre",
+          "name": "movieGenre",
+          "value": "$movieGenre",
+          "isList": true
+        },
+        {
+          "id": "4fb05393-1981-4254-9b0c-395d987c520d",
+          "required": false,
+          "dataType": "@voting",
+          "name": "voting",
+          "value": "$voting",
+          "isList": false
+        },
+        {
+          "id": "52947f19-1471-4399-9aec-2a4b96bdd14b",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1512840376,
+  "fallbackIntent": false,
+  "events": []
+}

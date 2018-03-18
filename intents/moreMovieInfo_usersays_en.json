@@ -1,0 +1,139 @@
+[
+  {
+    "id": "4729bad3-9353-4555-9bbc-09a53ac07eb5",
+    "data": [
+      {
+        "text": "what is this movie about?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519735860
+  },
+  {
+    "id": "79cdbb9d-3575-4b9e-bdf6-f98146e42b6b",
+    "data": [
+      {
+        "text": "more movie ",
+        "userDefined": false
+      },
+      {
+        "text": "information",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519735860
+  },
+  {
+    "id": "b067eb38-3436-4153-a4f2-382f8c78f336",
+    "data": [
+      {
+        "text": "spoilers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519735860
+  },
+  {
+    "id": "b67884a5-1639-481f-90d4-476ad86932dd",
+    "data": [
+      {
+        "text": "📜 plot spoilers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519735860
+  },
+  {
+    "id": "9a5e7cf8-da7c-4fe0-ad69-4402a78d99c1",
+    "data": [
+      {
+        "text": "more movie details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519735860
+  },
+  {
+    "id": "df67d2d3-d628-4501-be89-1334b366065b",
+    "data": [
+      {
+        "text": "tell me the plot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519735860
+  },
+  {
+    "id": "91e1d000-28aa-4a9f-bab4-596ad6473741",
+    "data": [
+      {
+        "text": "spoil the plot for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519735860
+  },
+  {
+    "id": "96aea18c-c5d0-44d3-b788-cf978b9bacee",
+    "data": [
+      {
+        "text": "provide more information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519735860
+  },
+  {
+    "id": "dfffdaad-9b0a-4bf1-bfba-bfbf3d53700d",
+    "data": [
+      {
+        "text": "provide movie spoilers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519735860
+  },
+  {
+    "id": "197d1562-92a5-4d7c-9d71-296ee9f38d25",
+    "data": [
+      {
+        "text": "tell me the plot spoilers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519735860
+  },
+  {
+    "id": "6946dc4a-0727-4cbe-87ae-d8067791eb3d",
+    "data": [
+      {
+        "text": "plot spoilers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1519735860
+  }
+]

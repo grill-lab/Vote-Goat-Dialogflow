@@ -1,0 +1,53 @@
+{
+  "description": "Vote Goat aims to crowd source movie ratings and provide accurate movie recommendations",
+  "language": "en",
+  "activeAssistantAgents": [],
+  "disableInteractionLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "popcornbot-183921",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "10ab295b-6db9-4b0c-b1b5-84aed32d182c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "d07ed1f7-90da-4475-b796-4d15e2ea859a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9ce9cf83-024d-435d-aa57-18d43c3fdd4d",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [
+      "0431bdcd-79eb-4555-b098-5346c18aef82"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2"
+  },
+  "defaultTimezone": "Europe/Madrid",
+  "webhook": {
+    "url": "https://prod.domain.tld",
+    "headers": {
+      "": "",
+      "username": "password"
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": false
+}
