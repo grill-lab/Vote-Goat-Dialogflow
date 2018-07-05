@@ -1,21 +1,19 @@
 {
-  "id": "6a63684a-7ca2-4ddd-a97f-258b14bd6748",
+  "id": "0d9d08f6-7942-422e-8579-2df36e864c97",
+  "parentId": "2461a723-1809-4fe0-9b17-49b3dd822195",
+  "rootParentId": "2461a723-1809-4fe0-9b17-49b3dd822195",
   "name": "dislike.all.recommendations.fallback",
   "auto": false,
   "contexts": [
-    "recommend_movie_context"
+    "list_body",
+    "recommend_movie_context",
+    "dislikeallrecommendations-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
       "action": "dislike.all.recommendations.fallback",
-      "affectedContexts": [
-        {
-          "name": "recommend_movie_context",
-          "parameters": {},
-          "lifespan": 1
-        }
-      ],
+      "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
@@ -30,12 +28,8 @@
   ],
   "priority": 500000,
   "webhookUsed": true,
-  "webhookForSlotFilling": true,
-  "lastUpdate": 1519687752,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530659806,
   "fallbackIntent": true,
-  "events": [
-    {
-      "name": "actions_intent_NO_INPUT"
-    }
-  ]
+  "events": []
 }

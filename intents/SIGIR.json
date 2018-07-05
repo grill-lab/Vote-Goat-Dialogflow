@@ -1,39 +1,32 @@
 {
-  "id": "9ce9cf83-024d-435d-aa57-18d43c3fdd4d",
-  "name": "goat",
+  "id": "35909392-3e67-4532-8a45-2df49608d49f",
+  "name": "SIGIR",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "goat",
+      "action": "SIGIR",
       "affectedContexts": [
         {
-          "name": "goat",
-          "parameters": {},
-          "lifespan": 1
-        },
-        {
-          "name": "goat-followup",
+          "name": "SIGIR-followup",
           "parameters": {},
           "lifespan": 2
         }
       ],
       "parameters": [
         {
-          "id": "ed26826d-7b94-4443-833c-e424b3a4b0ff",
-          "required": false,
+          "id": "3a2db13d-b0d2-4ad9-a43f-d6cae42cc455",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "84a2af37-ce32-4b2f-bbc3-be5223e80e72",
           "dataType": "@movieGenre",
           "name": "movieGenre",
           "value": "$movieGenre",
-          "isList": true
-        },
-        {
-          "id": "4fb05393-1981-4254-9b0c-395d987c520d",
-          "required": false,
-          "dataType": "@voting",
-          "name": "voting",
-          "value": "$voting",
           "isList": false
         }
       ],
@@ -51,7 +44,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1530703443,
+  "lastUpdate": 1530753326,
   "fallbackIntent": false,
   "events": []
 }

@@ -14,9 +14,9 @@
           "lifespan": 1
         },
         {
-          "name": "forward_genre",
+          "name": "Training-followup",
           "parameters": {},
-          "lifespan": 1
+          "lifespan": 2
         }
       ],
       "parameters": [
@@ -43,7 +43,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": true,
-  "lastUpdate": 1512420316,
+  "lastUpdate": 1530754600,
   "fallbackIntent": false,
   "events": []
 }

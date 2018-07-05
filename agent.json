@@ -3,9 +3,10 @@
   "language": "en",
   "activeAssistantAgents": [],
   "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
   "googleAssistant": {
     "googleAssistantCompatible": true,
-    "project": "popcornbot-183921",
+    "project": "botname",
     "welcomeIntentSignInRequired": false,
     "startIntents": [
       {
@@ -31,17 +32,19 @@
     },
     "voiceType": "MALE_1",
     "capabilities": [],
-    "protocolVersion": "V2"
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
   },
   "defaultTimezone": "Europe/Madrid",
   "webhook": {
-    "url": "https://prod.domain.tld",
+    "url": "",
     "headers": {
-      "": "",
-      "username": "password"
+      "authentication_key": "authentication_key_value",
+      "": ""
     },
     "available": true,
-    "useForDomains": false,
+    "useForDomains": true,
     "cloudFunctionsEnabled": false,
     "cloudFunctionsInitialized": false
   },
@@ -49,5 +52,5 @@
   "customClassifierMode": "use.after",
   "mlMinConfidence": 0.3,
   "supportedLanguages": [],
-  "enableOnePlatformApi": false
+  "onePlatformApiVersion": "v2"
 }

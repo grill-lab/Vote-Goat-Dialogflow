@@ -1,27 +1,20 @@
 {
-  "id": "910aed32-1a04-4b1c-8d25-865482f647de",
-  "name": "Training.Fallback",
+  "id": "5c322788-d32b-41b5-b2e7-1a170a399b11",
+  "parentId": "10ab295b-6db9-4b0c-b1b5-84aed32d182c",
+  "rootParentId": "10ab295b-6db9-4b0c-b1b5-84aed32d182c",
+  "name": "Training.fallback",
   "auto": false,
   "contexts": [
-    "vote_context"
+    "vote_context",
+    "Training-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "Training.Fallback",
+      "action": "Training.fallback",
       "affectedContexts": [
         {
           "name": "vote_context",
-          "parameters": {},
-          "lifespan": 1
-        },
-        {
-          "name": "forward_genre",
-          "parameters": {},
-          "lifespan": 1
-        },
-        {
-          "name": "forward_genre_more",
           "parameters": {},
           "lifespan": 1
         }
@@ -40,8 +33,8 @@
   ],
   "priority": 500000,
   "webhookUsed": true,
-  "webhookForSlotFilling": true,
-  "lastUpdate": 1512309059,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530660658,
   "fallbackIntent": true,
   "events": [
     {

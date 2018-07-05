@@ -32,6 +32,14 @@
           "name": "movieGenre",
           "value": "$movieGenre",
           "isList": true
+        },
+        {
+          "id": "3d8eb253-514d-499e-aae9-ee0ee2d8744b",
+          "required": false,
+          "dataType": "@voting",
+          "name": "voting",
+          "value": "$voting",
+          "isList": false
         }
       ],
       "messages": [],
@@ -41,8 +49,8 @@
   ],
   "priority": 500000,
   "webhookUsed": true,
-  "webhookForSlotFilling": false,
-  "lastUpdate": 1519735882,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1530752574,
   "fallbackIntent": false,
   "events": []
 }

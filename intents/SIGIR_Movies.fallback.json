@@ -1,21 +1,17 @@
 {
-  "id": "a47c9cf2-b8a6-46dd-b593-1756d9c5f27b",
-  "name": "handle_no_contexts",
+  "id": "26b51f9b-0d2c-47bd-b993-de23481dc8aa",
+  "parentId": "33ab44de-18f3-4d9a-8bc9-a70a6c8dbd17",
+  "rootParentId": "33ab44de-18f3-4d9a-8bc9-a70a6c8dbd17",
+  "name": "SIGIR_Movies.fallback",
   "auto": false,
   "contexts": [
-    "handle_no_contexts"
+    "SIGIR_Movies-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "handle_no_contexts.Fallback",
-      "affectedContexts": [
-        {
-          "name": "handle_no_contexts",
-          "parameters": {},
-          "lifespan": 1
-        }
-      ],
+      "action": "SIGIR_Movies.fallback",
+      "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
@@ -30,8 +26,8 @@
   ],
   "priority": 500000,
   "webhookUsed": true,
-  "webhookForSlotFilling": true,
-  "lastUpdate": 1513104706,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530660618,
   "fallbackIntent": true,
   "events": [
     {

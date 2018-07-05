@@ -12,6 +12,11 @@
           "name": "leaderboard",
           "parameters": {},
           "lifespan": 1
+        },
+        {
+          "name": "getLeaderBoards-followup",
+          "parameters": {},
+          "lifespan": 2
         }
       ],
       "parameters": [

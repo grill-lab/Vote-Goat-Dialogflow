@@ -20,6 +20,11 @@
           "name": "recommend_movie_context",
           "parameters": {},
           "lifespan": 1
+        },
+        {
+          "name": "dislikeallrecommendations-followup",
+          "parameters": {},
+          "lifespan": 2
         }
       ],
       "parameters": [
@@ -46,7 +51,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1512442532,
+  "lastUpdate": 1530703373,
   "fallbackIntent": false,
   "events": []
 }

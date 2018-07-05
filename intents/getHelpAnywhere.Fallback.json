@@ -1,21 +1,18 @@
 {
-  "id": "254aeea1-fced-4c65-8c71-9e4b06404db1",
-  "name": "getHelpAnywhere.Fallback",
+  "id": "71c327dd-abe8-403f-b6ec-067795c0489f",
+  "parentId": "d86effb6-b037-4011-aba4-84e2f7930112",
+  "rootParentId": "d86effb6-b037-4011-aba4-84e2f7930112",
+  "name": "getHelpAnywhere.fallback",
   "auto": false,
   "contexts": [
-    "help_anywhere"
+    "help_anywhere",
+    "getHelpAnywhere-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "getHelpAnywhere.Fallback",
-      "affectedContexts": [
-        {
-          "name": "help_anywhere",
-          "parameters": {},
-          "lifespan": 1
-        }
-      ],
+      "action": "getHelpAnywhere.fallback",
+      "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
@@ -30,8 +27,8 @@
   ],
   "priority": 500000,
   "webhookUsed": true,
-  "webhookForSlotFilling": true,
-  "lastUpdate": 1513103285,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530659855,
   "fallbackIntent": true,
   "events": [
     {

@@ -1,6 +1,6 @@
 {
   "id": "ce929a0f-a05b-4d88-962f-e09e5988eeae",
-  "name": "ItemSelected.Fallback",
+  "name": "ItemSelected.fallback",
   "auto": false,
   "contexts": [
     "vote_context",
@@ -10,7 +10,7 @@
   "responses": [
     {
       "resetContexts": false,
-      "action": "ItemSelected.Fallback",
+      "action": "ItemSelected.fallback",
       "affectedContexts": [
         {
           "name": "vote_context",
@@ -42,8 +42,8 @@
   ],
   "priority": 500000,
   "webhookUsed": true,
-  "webhookForSlotFilling": true,
-  "lastUpdate": 1512411659,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530660527,
   "fallbackIntent": true,
   "events": [
     {

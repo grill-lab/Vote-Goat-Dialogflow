@@ -1,0 +1,292 @@
+[
+  {
+    "id": "5f2ecdec-cbef-49fa-8f03-1741ae371a46",
+    "data": [
+      {
+        "text": "sigir ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530753942
+  },
+  {
+    "id": "7be54b28-8c4f-4226-abe9-a1cca8a8218b",
+    "data": [
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " sigir movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530753942
+  },
+  {
+    "id": "13b39b8b-4ce8-44fa-ae2f-16f05b2f9bcb",
+    "data": [
+      {
+        "text": "get sigir movies filtered by ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530753942
+  },
+  {
+    "id": "40eab0aa-2974-43cb-b8de-5a1d55c65748",
+    "data": [
+      {
+        "text": "which ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "romance",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies did sigir attendees ",
+        "userDefined": false
+      },
+      {
+        "text": "upvote",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the most?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530753942
+  },
+  {
+    "id": "fa1677bb-c986-49f2-8cae-3540156f3ec0",
+    "data": [
+      {
+        "text": "show which ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "romance",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies SIGIR users ",
+        "userDefined": false
+      },
+      {
+        "text": "like",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the most",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530753942
+  },
+  {
+    "id": "20abcf40-8ee0-4a8b-938a-e8122b079173",
+    "data": [
+      {
+        "text": "tell me what ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies SIGIR ",
+        "userDefined": false
+      },
+      {
+        "text": "likes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530753942
+  },
+  {
+    "id": "d5e442be-1942-497e-94c5-f8fb804b3607",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": true
+      },
+      {
+        "text": " movies do SIGIR attendees ",
+        "userDefined": false
+      },
+      {
+        "text": "like",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530753942
+  },
+  {
+    "id": "21a4117f-3cd9-42df-a600-fefc6fc10be9",
+    "data": [
+      {
+        "text": "show me what movies SIGIR attendees like",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530753942
+  },
+  {
+    "id": "cba628e8-ef89-477e-8a38-f99c76ab4c29",
+    "data": [
+      {
+        "text": "What movies do SIGIR ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " attendees like?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530753942
+  },
+  {
+    "id": "4740bb19-3342-4e8a-b0ab-ae1e5e321c1e",
+    "data": [
+      {
+        "text": "Movies rated by SIGIR attendees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530753942
+  },
+  {
+    "id": "1ea5a786-78d6-433e-8909-73041dc23d43",
+    "data": [
+      {
+        "text": "SIGIR Movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530753942
+  },
+  {
+    "id": "3daa70a5-48a6-436c-af0d-7a0f7b5c42aa",
+    "data": [
+      {
+        "text": "🎥 SIGIR Movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530753942
+  }
+]

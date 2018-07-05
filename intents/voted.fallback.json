@@ -1,21 +1,18 @@
 {
-  "id": "c6771892-9c3d-4833-a17f-df10dc829366",
-  "name": "finalFallback",
+  "id": "ba44b38e-accf-4c0e-a848-cfc4a1ab91af",
+  "parentId": "78bf0421-16fb-4cb6-b84e-583fc54e9d72",
+  "rootParentId": "78bf0421-16fb-4cb6-b84e-583fc54e9d72",
+  "name": "voted.fallback",
   "auto": false,
   "contexts": [
-    "final_prompt",
-    "vote_context"
+    "vote_context",
+    "voted-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "finalFallback",
+      "action": "voted.fallback",
       "affectedContexts": [
-        {
-          "name": "final_prompt",
-          "parameters": {},
-          "lifespan": 1
-        },
         {
           "name": "vote_context",
           "parameters": {},
@@ -36,12 +33,8 @@
   ],
   "priority": 500000,
   "webhookUsed": true,
-  "webhookForSlotFilling": true,
-  "lastUpdate": 1512744308,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530660713,
   "fallbackIntent": true,
-  "events": [
-    {
-      "name": "actions_intent_NO_INPUT"
-    }
-  ]
+  "events": []
 }

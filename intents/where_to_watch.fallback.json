@@ -1,29 +1,26 @@
 {
-  "id": "4e1cf221-787b-49d7-af9a-c620d026e4cf",
-  "name": "recommend_movie.fallback",
+  "id": "36fa3279-0a47-4e38-bf46-0b3aed928982",
+  "parentId": "618c50db-6ac3-4af4-80c7-36645e2c073a",
+  "rootParentId": "618c50db-6ac3-4af4-80c7-36645e2c073a",
+  "name": "where_to_watch.fallback",
   "auto": false,
   "contexts": [
-    "recommend_movie_context",
-    "list_selection",
-    "list_body"
+    "where_to_watch",
+    "where_to_watch-followup",
+    "vote_context"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "recommend_movie.Fallback",
+      "action": "where_to_watch.fallback",
       "affectedContexts": [
         {
-          "name": "recommend_movie_context",
+          "name": "vote_context",
           "parameters": {},
           "lifespan": 1
         },
         {
-          "name": "list_selection",
-          "parameters": {},
-          "lifespan": 1
-        },
-        {
-          "name": "list_body",
+          "name": "where_to_watch-followup",
           "parameters": {},
           "lifespan": 1
         }
@@ -43,11 +40,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1530660366,
+  "lastUpdate": 1530660855,
   "fallbackIntent": true,
-  "events": [
-    {
-      "name": "actions_intent_NO_INPUT"
-    }
-  ]
+  "events": []
 }

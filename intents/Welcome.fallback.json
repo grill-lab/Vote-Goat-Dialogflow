@@ -1,17 +1,17 @@
 {
-  "id": "bfeabd4c-bd48-4212-aa65-aa5081bb1675",
-  "parentId": "fd94f306-6d80-4c9c-b1dc-3a0a98729f93",
-  "rootParentId": "fd94f306-6d80-4c9c-b1dc-3a0a98729f93",
-  "name": "getLeaderBoards.fallback",
+  "id": "5a182508-4bfe-4183-8e20-59db4f23b0df",
+  "parentId": "3b040f19-86cb-4818-beaa-44f277fdb284",
+  "rootParentId": "3b040f19-86cb-4818-beaa-44f277fdb284",
+  "name": "Welcome.fallback",
   "auto": false,
   "contexts": [
-    "leaderboard",
-    "getLeaderBoards-followup"
+    "Welcome-followup",
+    "Home"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "getLeaderBoards.fallback",
+      "action": "Welcome.fallback",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
@@ -28,7 +28,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1530659908,
+  "lastUpdate": 1530660758,
   "fallbackIntent": true,
   "events": [
     {

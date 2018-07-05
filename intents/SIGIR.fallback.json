@@ -1,17 +1,16 @@
 {
-  "id": "bfeabd4c-bd48-4212-aa65-aa5081bb1675",
-  "parentId": "fd94f306-6d80-4c9c-b1dc-3a0a98729f93",
-  "rootParentId": "fd94f306-6d80-4c9c-b1dc-3a0a98729f93",
-  "name": "getLeaderBoards.fallback",
+  "id": "fce14b90-c198-4eb2-b06e-4716f2d53055",
+  "parentId": "35909392-3e67-4532-8a45-2df49608d49f",
+  "rootParentId": "35909392-3e67-4532-8a45-2df49608d49f",
+  "name": "SIGIR.fallback",
   "auto": false,
   "contexts": [
-    "leaderboard",
-    "getLeaderBoards-followup"
+    "SIGIR-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "getLeaderBoards.fallback",
+      "action": "SIGIR.fallback",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
@@ -28,7 +27,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1530659908,
+  "lastUpdate": 1530660572,
   "fallbackIntent": true,
   "events": [
     {

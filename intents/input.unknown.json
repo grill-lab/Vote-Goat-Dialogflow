@@ -1,17 +1,12 @@
 {
-  "id": "bfeabd4c-bd48-4212-aa65-aa5081bb1675",
-  "parentId": "fd94f306-6d80-4c9c-b1dc-3a0a98729f93",
-  "rootParentId": "fd94f306-6d80-4c9c-b1dc-3a0a98729f93",
-  "name": "getLeaderBoards.fallback",
-  "auto": false,
-  "contexts": [
-    "leaderboard",
-    "getLeaderBoards-followup"
-  ],
+  "id": "c2d8768b-82b1-44f2-8b56-0922f0d502f4",
+  "name": "input.unknown",
+  "auto": true,
+  "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "getLeaderBoards.fallback",
+      "action": "input.unknown",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
@@ -28,7 +23,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1530659908,
+  "lastUpdate": 1530233766,
   "fallbackIntent": true,
   "events": [
     {

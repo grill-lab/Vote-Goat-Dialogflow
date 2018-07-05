@@ -17,6 +17,21 @@
     ]
   },
   {
+    "value": "Drama",
+    "synonyms": [
+      "Drama",
+      "emotion",
+      "tragedy",
+      "Psychodrama",
+      "Docudrama",
+      "Historical drama",
+      "Melodrama",
+      "political drama",
+      "courtroom drama",
+      "domestic drama"
+    ]
+  },
+  {
     "value": "Crime",
     "synonyms": [
       "Crime",
@@ -35,61 +50,6 @@
       "misconduct",
       "transgression",
       "wrongdoing"
-    ]
-  },
-  {
-    "value": "Drama",
-    "synonyms": [
-      "Drama",
-      "emotion",
-      "tragedy",
-      "Psychodrama",
-      "Docudrama",
-      "Historical drama",
-      "Melodrama",
-      "political drama",
-      "courtroom drama",
-      "domestic drama"
-    ]
-  },
-  {
-    "value": "Musical",
-    "synonyms": [
-      "Musical",
-      "melodic",
-      "operatic",
-      "rythmic",
-      "symphonic",
-      "vocal",
-      "melodious",
-      "harmony",
-      "harmonious",
-      "orchestral",
-      "singing",
-      "songs",
-      "tune",
-      "rockumentary"
-    ]
-  },
-  {
-    "value": "Mystery",
-    "synonyms": [
-      "Mystery",
-      "conundrum",
-      "enigma",
-      "problem",
-      "riddle",
-      "secrecy",
-      "secret",
-      "subtlety",
-      "charade",
-      "cryptogram",
-      "secret society",
-      "conspiracy",
-      "occult",
-      "oracle",
-      "perplexity",
-      "puzzlement"
     ]
   },
   {
@@ -151,6 +111,46 @@
     ]
   },
   {
+    "value": "Musical",
+    "synonyms": [
+      "Musical",
+      "melodic",
+      "operatic",
+      "rythmic",
+      "symphonic",
+      "vocal",
+      "melodious",
+      "harmony",
+      "harmonious",
+      "orchestral",
+      "singing",
+      "songs",
+      "tune",
+      "rockumentary"
+    ]
+  },
+  {
+    "value": "Mystery",
+    "synonyms": [
+      "Mystery",
+      "conundrum",
+      "enigma",
+      "problem",
+      "riddle",
+      "secrecy",
+      "secret",
+      "subtlety",
+      "charade",
+      "cryptogram",
+      "secret society",
+      "conspiracy",
+      "occult",
+      "oracle",
+      "perplexity",
+      "puzzlement"
+    ]
+  },
+  {
     "value": "Fantasy",
     "synonyms": [
       "fantasy",
@@ -164,27 +164,6 @@
       "extraordinary",
       "High Fantasy",
       "Sword and Sorcer"
-    ]
-  },
-  {
-    "value": "Comedy",
-    "synonyms": [
-      "comedy",
-      "stand-up",
-      "stand up",
-      "funny",
-      "laugh",
-      "comedian",
-      "satire",
-      "sitcom",
-      "fun",
-      "slapstick",
-      "witty",
-      "jest",
-      "jokes",
-      "farce",
-      "humour",
-      "mockumentary"
     ]
   },
   {
@@ -213,28 +192,33 @@
     ]
   },
   {
+    "value": "Comedy",
+    "synonyms": [
+      "comedy",
+      "stand-up",
+      "stand up",
+      "funny",
+      "laugh",
+      "comedian",
+      "satire",
+      "sitcom",
+      "fun",
+      "slapstick",
+      "witty",
+      "jest",
+      "jokes",
+      "farce",
+      "humour",
+      "mockumentary"
+    ]
+  },
+  {
     "value": "Biography",
     "synonyms": [
       "Biography",
       "biopic",
       "biographical",
       "auto biopic"
-    ]
-  },
-  {
-    "value": "Adventure",
-    "synonyms": [
-      "adventure",
-      "feat",
-      "trip",
-      "experience",
-      "legend",
-      "survival",
-      "swashbuckler",
-      "pirate",
-      "time travel",
-      "disaster",
-      "epic"
     ]
   },
   {
@@ -255,18 +239,36 @@
     ]
   },
   {
-    "value": "Documentary",
+    "value": "Adventure",
     "synonyms": [
-      "Documentary",
-      "Factual",
-      "narrative",
-      "information",
-      "history",
-      "historic",
-      "Observational",
-      "Participatory documentary",
-      "Reflexive documentary",
-      "Performative documentary"
+      "adventure",
+      "feat",
+      "trip",
+      "experience",
+      "legend",
+      "survival",
+      "swashbuckler",
+      "pirate",
+      "time travel",
+      "disaster",
+      "epic"
+    ]
+  },
+  {
+    "value": "Sci-Fi",
+    "synonyms": [
+      "science",
+      "sci-fi",
+      "science-fiction",
+      "science \u0026 fiction",
+      "sci fi",
+      "space",
+      "aliens",
+      "dimensions",
+      "star",
+      "scifi",
+      "black hole",
+      "alternate dimension"
     ]
   },
   {
@@ -307,20 +309,41 @@
     ]
   },
   {
-    "value": "Sci-Fi",
+    "value": "Documentary",
     "synonyms": [
-      "science",
-      "sci-fi",
-      "science-fiction",
-      "science \u0026 fiction",
-      "sci fi",
-      "space",
-      "aliens",
-      "dimensions",
-      "star",
-      "scifi",
-      "black hole",
-      "alternate dimension"
+      "Documentary",
+      "Factual",
+      "narrative",
+      "information",
+      "history",
+      "historic",
+      "Observational",
+      "Participatory documentary",
+      "Reflexive documentary",
+      "Performative documentary"
+    ]
+  },
+  {
+    "value": "Film-Noir",
+    "synonyms": [
+      "Film-Noir",
+      "black and white",
+      "black-and-white",
+      "dark film",
+      "melodrama",
+      "neo-noir",
+      "German Expressionism",
+      "French poetic realism",
+      "italian neorealism",
+      "art deco",
+      "scenography",
+      "french new wave",
+      "private eye",
+      "femme fatale",
+      "oneiric",
+      "strange",
+      "ambivalent",
+      "cruel"
     ]
   },
   {
@@ -364,26 +387,9 @@
     ]
   },
   {
-    "value": "Film-Noir",
+    "value": "animation",
     "synonyms": [
-      "Film-Noir",
-      "black and white",
-      "black-and-white",
-      "dark film",
-      "melodrama",
-      "neo-noir",
-      "German Expressionism",
-      "French poetic realism",
-      "italian neorealism",
-      "art deco",
-      "scenography",
-      "french new wave",
-      "private eye",
-      "femme fatale",
-      "oneiric",
-      "strange",
-      "ambivalent",
-      "cruel"
+      "animation"
     ]
   }
 ]

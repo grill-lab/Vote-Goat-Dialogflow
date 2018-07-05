@@ -1,6 +1,294 @@
 [
   {
-    "id": "cca40aea-58e7-4861-8f5f-721db0068a68",
+    "id": "2799a9d4-ad46-462b-8a1e-064e1b4d3ce3",
+    "data": [
+      {
+        "text": "rate ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " films",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530754137
+  },
+  {
+    "id": "aa7223cc-6213-4a14-ae04-6721290971af",
+    "data": [
+      {
+        "text": "submit film ratings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530754137
+  },
+  {
+    "id": "d509f82b-5dcb-469e-9e42-8198d23cf1e0",
+    "data": [
+      {
+        "text": "rank films",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530754137
+  },
+  {
+    "id": "1f09db3d-14fa-4531-91f3-5b915fe34655",
+    "data": [
+      {
+        "text": "provide movie ratings for ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530754137
+  },
+  {
+    "id": "23e84fd2-6ebc-4037-9e18-0d264c59f6f4",
+    "data": [
+      {
+        "text": "provide ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movie ratings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530754137
+  },
+  {
+    "id": "e858de6b-b7a3-4158-92fb-e49a486d9c11",
+    "data": [
+      {
+        "text": "begin rating ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "romance",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530754137
+  },
+  {
+    "id": "c4fbbf11-b8e7-4273-a6bd-cd04097e6e69",
+    "data": [
+      {
+        "text": "begin rating movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530754137
+  },
+  {
+    "id": "0c5888a6-1147-42b3-becc-53a9983f7e9b",
+    "data": [
+      {
+        "text": "contribute movie ratings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530754137
+  },
+  {
+    "id": "b33134dd-2309-4e55-b893-e12c1ec25156",
+    "data": [
+      {
+        "text": "submit movie ratings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530754137
+  },
+  {
+    "id": "ce3eea1e-8a65-4c07-994f-08c9a30d2708",
+    "data": [
+      {
+        "text": "sentence ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530754137
+  },
+  {
+    "id": "6167e375-a038-4d5b-824b-a083ff8f2e7f",
+    "data": [
+      {
+        "text": "judge ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530754137
+  },
+  {
+    "id": "d88542d5-87f1-47aa-ace6-27864b138db0",
+    "data": [
+      {
+        "text": "rate ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530754137
+  },
+  {
+    "id": "b4fb3f2c-cdfd-4106-8b27-4cbcaaf6a17a",
+    "data": [
+      {
+        "text": "training",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1530754137
+  },
+  {
+    "id": "f59bb28f-6bf7-49fd-9bed-a5f63e6d3431",
+    "data": [
+      {
+        "text": " 🗳 Rank Movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1530754137
+  },
+  {
+    "id": "0f242f6d-30f1-473e-b3ea-8e14befcf872",
     "data": [
       {
         "text": "let\u0027s train",
@@ -8,10 +296,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "48755be9-412c-48cf-9cc0-8f92375d0c68",
+    "id": "9dd22488-211b-4acb-b564-28cda392f8d7",
     "data": [
       {
         "text": "I\u0027d like to explore ",
@@ -39,10 +328,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "1fa0fc57-582e-499e-93c0-0ee460eb51ec",
+    "id": "7af5ac1a-41ea-47dc-bef2-c20212964727",
     "data": [
       {
         "text": "learn my favourite movies",
@@ -50,10 +340,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "131ad061-88d4-48c3-8991-b5ef61ebcec7",
+    "id": "3bedf997-d9b3-4ca7-8ecb-71875d27f6c8",
     "data": [
       {
         "text": "let\u0027s rank some movies",
@@ -61,10 +352,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "dca18edb-bdff-4a36-9f55-94cc1fb10eea",
+    "id": "f064353b-e5b3-4b9e-aef2-468f9596bb7a",
     "data": [
       {
         "text": "let\u0027s train ",
@@ -88,10 +380,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "730c7055-36aa-4e50-bac4-7df37dca7a87",
+    "id": "e1cb46f0-ff66-4fcd-8840-9ed65d3cc09d",
     "data": [
       {
         "text": "rank ",
@@ -109,10 +402,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "79486458-c89a-4d26-be75-ee15a65fa8ed",
+    "id": "e70ce1c6-109c-45d0-9c59-0daa8fe2d7ef",
     "data": [
       {
         "text": "i want to rank movies",
@@ -120,10 +414,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "d4fe5439-c233-49b3-9de8-09162c32581e",
+    "id": "b161d3df-634b-42bf-a223-c73e42cd5352",
     "data": [
       {
         "text": "let me tell you my favourite movies",
@@ -131,10 +426,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "d3340d80-3404-4e91-ae86-7ead3b36de70",
+    "id": "4f2ed134-1fe2-47e5-9ce7-904177f5370c",
     "data": [
       {
         "text": "rank ",
@@ -172,10 +468,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "4dfedf58-fa0d-4082-a247-ae5657c1d7c5",
+    "id": "24da1dcb-1f1c-4117-9bc0-882750413977",
     "data": [
       {
         "text": "rank ",
@@ -213,10 +510,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "d076f5fe-f592-40fa-b1d1-f7f65241828a",
+    "id": "4c26988b-efe4-4845-b481-77a3fa400503",
     "data": [
       {
         "text": "rank ",
@@ -234,10 +532,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "5e24782d-31c4-404b-bca7-614c8f3275b5",
+    "id": "bdf829ab-50a3-4112-aed6-e14f3292d1c6",
     "data": [
       {
         "text": "train mode",
@@ -245,10 +544,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "cbd79203-968b-4ff8-8732-63338749f92d",
+    "id": "8178d512-284b-47e3-8562-ee8a58be9b4e",
     "data": [
       {
         "text": "what about ",
@@ -276,10 +576,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "fa1f6bb5-c7e8-4b4f-8362-309e67c4cddb",
+    "id": "693781f0-d562-4210-ae4a-a42ff8711025",
     "data": [
       {
         "text": "vote on ",
@@ -303,10 +604,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "64e96dbf-43bc-4716-9193-9a8eab08f257",
+    "id": "232a0368-5047-4987-b105-38fe236938d0",
     "data": [
       {
         "text": "rank ",
@@ -334,10 +636,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "6ef8b3d3-26d0-4c0a-88a2-76d625ae77c1",
+    "id": "e748ee71-bc89-48a1-831f-d54d4a483e28",
     "data": [
       {
         "text": "rank ",
@@ -365,10 +668,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "b0090b5a-37fb-497d-bfc2-656906b9bee7",
+    "id": "0f211491-6db5-48a7-846e-1a1ab9ec15bc",
     "data": [
       {
         "text": "rank ",
@@ -386,10 +690,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "947242fa-f39d-4dfa-81ed-71362396773e",
+    "id": "f00f8068-e1ab-495c-aca0-9df513f95f25",
     "data": [
       {
         "text": "rank ",
@@ -427,10 +732,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "6316f265-d404-4f4f-88ce-380ac766043d",
+    "id": "059917eb-800c-4ea7-bdf4-e244fbf3d3de",
     "data": [
       {
         "text": "train bot",
@@ -438,10 +744,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "d0d653c4-2529-4119-8994-6040bf57a850",
+    "id": "0488a8e0-8c4b-4c2a-b2ee-65fbc38e3a38",
     "data": [
       {
         "text": "rank movies",
@@ -449,10 +756,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "9bcf85ed-518c-4876-b835-66278b99cf2b",
+    "id": "55aa12af-1a70-4ef4-8698-26250cd1c04a",
     "data": [
       {
         "text": "let me rank movies",
@@ -460,10 +768,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "2cb989b9-7a39-469c-a860-bd73a15ec922",
+    "id": "c66b42ca-b139-4255-96f0-93365c7d35f0",
     "data": [
       {
         "text": "rank ",
@@ -481,41 +790,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "5b0c7f88-a43e-4be0-95f0-595a71a201c3",
-    "data": [
-      {
-        "text": "I will like to rank ",
-        "userDefined": false
-      },
-      {
-        "text": "historic",
-        "alias": "movieGenre",
-        "meta": "@movieGenre",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "love",
-        "alias": "movieGenre",
-        "meta": "@movieGenre",
-        "userDefined": false
-      },
-      {
-        "text": " movies",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "77166c81-c25a-4f78-8748-45206167b5e1",
+    "id": "d070ae4e-b28f-4c95-87fd-a6c1718e413e",
     "data": [
       {
         "text": "rank movies which are classified as ",
@@ -529,10 +808,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "d9abaa3a-bb46-48f3-8b7c-29ccae436733",
+    "id": "b89e0aba-1763-4359-9ff3-104da92b3ac1",
     "data": [
       {
         "text": "rank ",
@@ -560,10 +840,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "e4ed4800-b5dc-4222-9c84-a7cc24027347",
+    "id": "6c01e02d-4a74-4345-a6a6-d5184714e7fb",
     "data": [
       {
         "text": "rank ",
@@ -591,17 +872,30 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "24675b4f-a9ca-4003-becd-d14e26e83bff",
+    "id": "a7e409bf-00ce-42c9-a51e-581afc2a2834",
     "data": [
       {
-        "text": "rank movies with the genres ",
+        "text": "rank mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530754137
+  },
+  {
+    "id": "fd274ac2-0d54-49b5-8d15-a7ff061205bc",
+    "data": [
+      {
+        "text": "I will like to rank ",
         "userDefined": false
       },
       {
-        "text": "action",
+        "text": "historic",
         "alias": "movieGenre",
         "meta": "@movieGenre",
         "userDefined": false
@@ -611,89 +905,7 @@
         "userDefined": false
       },
       {
-        "text": "horror",
-        "alias": "movieGenre",
-        "meta": "@movieGenre",
-        "userDefined": false
-      },
-      {
-        "text": " and ",
-        "userDefined": false
-      },
-      {
-        "text": "comedy",
-        "alias": "movieGenre",
-        "meta": "@movieGenre",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "d842e342-6fe3-4bcf-940b-d139640e53c4",
-    "data": [
-      {
-        "text": "i wish to rank movies",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "577cdb28-bd1b-41f3-ac21-f482b4469f2c",
-    "data": [
-      {
-        "text": "training",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "0f5f5a1f-804a-4dec-9f06-6422df2d76cb",
-    "data": [
-      {
-        "text": "learn movies",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "ad5e6428-0da5-4e07-94bd-8a22c5df23d8",
-    "data": [
-      {
-        "text": " 🗳 Rank Movies",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "c4dcdbbe-d031-4752-9381-8c9e6b9b20e4",
-    "data": [
-      {
-        "text": "rank mode",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "1f7a7124-2afe-4ff8-9e46-1ed227b9dc24",
-    "data": [
-      {
-        "text": "rank ",
-        "userDefined": false
-      },
-      {
-        "text": "horror",
+        "text": "love",
         "alias": "movieGenre",
         "meta": "@movieGenre",
         "userDefined": false
@@ -704,10 +916,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "f32cf78c-8ba4-4af4-87d6-bc4ea5aa9a47",
+    "id": "46dace95-c662-42a2-8507-574158f882d5",
     "data": [
       {
         "text": "rank ",
@@ -745,10 +958,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
   },
   {
-    "id": "8e9cc8c5-9937-4dc1-8801-6f40ed1431f2",
+    "id": "b8e8a4fe-e63e-4a88-86a0-37dba503c3a0",
     "data": [
       {
         "text": "rank ",
@@ -786,6 +1000,91 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530754137
+  },
+  {
+    "id": "ec4a900d-6628-4b9c-ae6e-ae879eae0800",
+    "data": [
+      {
+        "text": "learn movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530754137
+  },
+  {
+    "id": "4c563e47-cf95-4d27-80a6-a5b708410e1d",
+    "data": [
+      {
+        "text": "rank movies with the genres ",
+        "userDefined": false
+      },
+      {
+        "text": "action",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530754137
+  },
+  {
+    "id": "6a71cae1-2852-4be0-9cc8-8348a2904a87",
+    "data": [
+      {
+        "text": "i wish to rank movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530754137
+  },
+  {
+    "id": "3e6b71fb-e0f7-4193-ad23-62d7bbb88124",
+    "data": [
+      {
+        "text": "rank ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530754137
   }
 ]

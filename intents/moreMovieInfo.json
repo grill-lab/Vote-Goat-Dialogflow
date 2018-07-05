@@ -21,12 +21,21 @@
           "lifespan": 1
         },
         {
-          "name": "forward_genre_more",
+          "name": "moreMovieInfo-followup",
           "parameters": {},
-          "lifespan": 1
+          "lifespan": 2
         }
       ],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "03c4bdef-acc9-4090-9f9a-1db84ba91af8",
+          "required": false,
+          "dataType": "@movieGenre",
+          "name": "movieGenre",
+          "value": "$movieGenre",
+          "isList": false
+        }
+      ],
       "messages": [
         {
           "type": 0,
@@ -41,7 +50,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1519735860,
+  "lastUpdate": 1530752234,
   "fallbackIntent": false,
   "events": []
 }

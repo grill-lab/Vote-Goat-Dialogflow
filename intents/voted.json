@@ -16,12 +16,17 @@
           "lifespan": 1
         },
         {
-          "name": "forwards_genre",
+          "name": "forward_genre_more",
           "parameters": {},
           "lifespan": 1
         },
         {
-          "name": "forward_genre_more",
+          "name": "voted-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "forward_genre",
           "parameters": {},
           "lifespan": 1
         }
@@ -29,7 +34,7 @@
       "parameters": [
         {
           "id": "4f3953b0-868e-4adc-b70c-ff611af81de2",
-          "required": true,
+          "required": false,
           "dataType": "@voting",
           "name": "voting",
           "value": "$voting",
@@ -50,8 +55,8 @@
   ],
   "priority": 500000,
   "webhookUsed": true,
-  "webhookForSlotFilling": true,
-  "lastUpdate": 1512175280,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530754184,
   "fallbackIntent": false,
   "events": []
 }

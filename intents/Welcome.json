@@ -1,6 +1,6 @@
 {
   "id": "3b040f19-86cb-4818-beaa-44f277fdb284",
-  "name": "Home",
+  "name": "Welcome",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -12,6 +12,11 @@
           "name": "Home",
           "parameters": {},
           "lifespan": 1
+        },
+        {
+          "name": "Welcome-followup",
+          "parameters": {},
+          "lifespan": 2
         }
       ],
       "parameters": [],
@@ -39,7 +44,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1519735333,
+  "lastUpdate": 1530754299,
   "fallbackIntent": false,
   "events": [
     {

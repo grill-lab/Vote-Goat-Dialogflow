@@ -1,6 +1,258 @@
 [
   {
-    "id": "25211f75-ce94-4d85-8a62-7a25590ffc85",
+    "id": "226cf6b0-864f-4fd2-aad7-80b0057be505",
+    "data": [
+      {
+        "text": "I wish vote goat would stop talking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "ed9a0006-a0e7-43bd-bc00-3407c273fc82",
+    "data": [
+      {
+        "text": "get out of chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "6cec1df9-868a-496c-924c-c0ce56a09c41",
+    "data": [
+      {
+        "text": "get out of conversation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "9f265b2f-2258-4a7b-815a-78ca714b8d18",
+    "data": [
+      {
+        "text": "clear off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "45d7416b-6e82-4f66-bcf6-3628fdbc0c03",
+    "data": [
+      {
+        "text": "shoo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "4ff3ba05-acb0-4828-8467-dfab3e2f2fab",
+    "data": [
+      {
+        "text": "buzz off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "4cfef518-3bdc-4981-9e72-b25d2527cfa9",
+    "data": [
+      {
+        "text": "make oneself scarce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "9483fe5b-4aac-4f58-b04b-635721eab77f",
+    "data": [
+      {
+        "text": "I wish to retire for the night",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "9ec75624-ada6-4621-ba56-adad4763d46b",
+    "data": [
+      {
+        "text": "I give up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "768e42f2-b71e-443c-be9d-630168de22e2",
+    "data": [
+      {
+        "text": "get lost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "cbea4881-00e3-45be-9dd4-0c50804ad705",
+    "data": [
+      {
+        "text": "end our chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "e66cce95-fe57-4749-85e8-3ed442665e78",
+    "data": [
+      {
+        "text": "end our conversation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "55adea9b-3050-4b43-b950-115de244d4e8",
+    "data": [
+      {
+        "text": "stop our conversation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "188340a2-d9d7-4b8c-aac7-61be4bdafcb0",
+    "data": [
+      {
+        "text": "end our session",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "7018189c-ce54-4ffc-890d-e4f7f7bbe9ac",
+    "data": [
+      {
+        "text": "I\u0027m bored of using vote goat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "8c7ec13b-d35d-4f84-a9e3-3300933c583c",
+    "data": [
+      {
+        "text": "leave me alone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "6af35c60-5fd8-4425-8060-91eccde8628c",
+    "data": [
+      {
+        "text": "go away",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "5e44ca2c-e5df-40a8-8332-41416e8d09dc",
+    "data": [
+      {
+        "text": "abandon ship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "4c31d437-1ffc-4a00-9fca-d1d40d23205a",
+    "data": [
+      {
+        "text": "abandon vote goat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "08eff5bb-a006-4645-b278-c88cb2a0942b",
+    "data": [
+      {
+        "text": "let me leave",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "298811ef-7521-471c-bd83-c834aaab0a08",
+    "data": [
+      {
+        "text": "get out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "158256d6-39ef-4b79-a2ea-bb9812619122",
     "data": [
       {
         "text": "🚪 Quit",
@@ -8,21 +260,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530703807
   },
   {
-    "id": "5a233544-ae98-4ce0-8257-5937ef115a50",
-    "data": [
-      {
-        "text": "go away popcorn",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "31e59ccd-0665-4e1c-a903-579618a7a217",
+    "id": "823d1092-2883-4bc4-baf4-f72e30099e0b",
     "data": [
       {
         "text": "I want to stop using vote goat for now",
@@ -30,21 +272,23 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530703807
   },
   {
-    "id": "6f04f0cf-862b-4db0-a0f7-eadda966ba02",
+    "id": "6b7f3e8b-8b4e-4bd7-a364-0bb0cb13e5be",
     "data": [
       {
-        "text": "goodbye",
+        "text": "go away vote goat",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530703807
   },
   {
-    "id": "44409811-bc54-47fb-9880-c998112c832d",
+    "id": "fb0d51a0-4eb6-4c67-bf92-77e9a4c10488",
     "data": [
       {
         "text": "go back to google",
@@ -52,10 +296,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530703807
   },
   {
-    "id": "48ea54de-5e3e-4da1-942d-eb4db625e0bf",
+    "id": "8e848c30-d4e4-4dc0-a79d-76f22db552e2",
     "data": [
       {
         "text": "leave",
@@ -63,10 +308,23 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530703807
   },
   {
-    "id": "a1a7700a-5793-4a9c-9e06-1ca59696a6d8",
+    "id": "68e0eb4b-26de-43bd-a7a2-34095bbd8d9d",
+    "data": [
+      {
+        "text": "goodbye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "407aa76d-0a51-4a83-af03-a8b2b86e664a",
     "data": [
       {
         "text": "I want to leave vote goat",
@@ -74,32 +332,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530703807
   },
   {
-    "id": "5ed3d328-702a-449d-aa89-21863375ce21",
-    "data": [
-      {
-        "text": "stop running popcorn",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "05eeb661-1ecf-41fe-a549-7491b5fc1627",
-    "data": [
-      {
-        "text": "leave vote goat",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "5c89329a-e301-4371-b43c-be1e1172dffe",
+    "id": "4321e7df-2dba-4839-a894-175363fdc0b4",
     "data": [
       {
         "text": "exit vote goat",
@@ -107,21 +344,35 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530703807
   },
   {
-    "id": "74030bc8-c4f7-4ef3-8946-98924abb97da",
+    "id": "29a4da58-90f3-4d0c-b513-0245b69f3f79",
     "data": [
       {
-        "text": "quit vote goat",
+        "text": "stop running vote goat",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530703807
   },
   {
-    "id": "02dd6e49-5e56-4c8e-9773-47ec1503b7ac",
+    "id": "aae3ef39-81f9-4f83-adb3-13b42d9e8d50",
+    "data": [
+      {
+        "text": "leave vote goat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "eff369fb-782d-4fe2-accf-a246a0a71c37",
     "data": [
       {
         "text": "exit",
@@ -129,10 +380,23 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530703807
   },
   {
-    "id": "145e535f-dc36-4c0c-943f-eb9edbfe2395",
+    "id": "b3fac724-6087-4dde-a24f-9fe7138c20d9",
+    "data": [
+      {
+        "text": "quit vote goat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530703807
+  },
+  {
+    "id": "21f1c4bc-f1d3-457e-b4c0-ab89fcf4df66",
     "data": [
       {
         "text": "I don\u0027t want to use vote goat anymore",
@@ -140,10 +404,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530703807
   },
   {
-    "id": "56bfb602-edec-4c83-9559-d021c4441b81",
+    "id": "bc8a4ea0-2f49-44e9-82c9-5e703ec52295",
     "data": [
       {
         "text": "return to google",
@@ -151,10 +416,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530703807
   },
   {
-    "id": "a15e8f2b-31dd-4426-a16e-bd52790867d1",
+    "id": "5c6b463a-822d-437f-a4f6-21303cdc690f",
     "data": [
       {
         "text": "quit",
@@ -162,10 +428,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530703807
   },
   {
-    "id": "5b6a4a8e-2a6c-4209-b0a4-4fdd80c02c2e",
+    "id": "1d3e1a79-b6cf-439a-a1a5-7490f5008035",
     "data": [
       {
         "text": "goodbye vote goat",
@@ -173,6 +440,7 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530703807
   }
 ]

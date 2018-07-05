@@ -1,28 +1,346 @@
 [
   {
-    "id": "1339df4e-8883-4fdb-873c-c41b3933ec25",
+    "id": "d34a775d-e729-4384-adc7-25c7e4c31f13",
     "data": [
       {
-        "text": "back to movie suggestions",
+        "text": "select some ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies to pick from",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530752574
   },
   {
-    "id": "49814d33-b0c0-4995-96d2-91bf594f88f1",
+    "id": "ecb099fe-713f-4594-b7d6-3a6298d9b137",
     "data": [
       {
-        "text": "what movies are there to watch",
+        "text": "retrieve ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530752574
   },
   {
-    "id": "12309c70-1a47-4955-8310-a239d089b526",
+    "id": "bb25ab1b-0335-4964-ad27-b92290905324",
+    "data": [
+      {
+        "text": "display some ",
+        "userDefined": false
+      },
+      {
+        "text": "romantic",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "baed55e5-1f2a-46a5-88ed-03c09aef14a0",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "adventure",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies with ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " elements are worth watching?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "f036d75c-e4bc-4e08-935f-756a7d018b64",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "action",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies do you think we\u0027ll ",
+        "userDefined": false
+      },
+      {
+        "text": "like",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "c3526123-7760-46a1-81c8-70d66cea74a9",
+    "data": [
+      {
+        "text": "show me some ",
+        "userDefined": false
+      },
+      {
+        "text": "action",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "thriller",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "romance",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "60b9c8cb-766f-4b14-9f9f-a940652927ed",
+    "data": [
+      {
+        "text": "what are some ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "2353ec0c-45ea-43ec-b76f-8d48b1d14a1a",
+    "data": [
+      {
+        "text": "I want to watch a ",
+        "userDefined": false
+      },
+      {
+        "text": "horror",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "8dd8947e-a6de-4df3-9401-388aa59de3b0",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "action",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies should we watch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "e8875007-cd52-4b96-9b00-e326c91c701c",
+    "data": [
+      {
+        "text": "tell us what ",
+        "userDefined": false
+      },
+      {
+        "text": "action",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "thriller",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movies we should watch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "f67065be-c17f-4b57-8b04-c4ebadeb03cd",
     "data": [
       {
         "text": "show me a carousel of movies",
@@ -30,21 +348,23 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530752574
   },
   {
-    "id": "f15d1dfc-0507-442f-acd5-7841574e7a48",
+    "id": "8aef4499-2981-4362-8455-2c039eeb8d87",
     "data": [
       {
-        "text": "suggest a movie to watch",
+        "text": "return to list of movies",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530752574
   },
   {
-    "id": "44b827ee-dae0-4e68-acbd-a1d96538cf7b",
+    "id": "6aff30c4-02d4-4a16-ab39-f7dd4b14866f",
     "data": [
       {
         "text": "Show me a list of ",
@@ -72,149 +392,11 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530752574
   },
   {
-    "id": "f1d7f9bb-81be-46e2-9b15-e0c1d1a6bfbb",
-    "data": [
-      {
-        "text": "return to recommended movies",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "7938f001-414c-4b15-9b3f-d488682f2c0e",
-    "data": [
-      {
-        "text": "return to list of movies",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "2e4acce0-ffeb-4c94-a737-6d52cd8ba0f4",
-    "data": [
-      {
-        "text": "Can i see an ",
-        "userDefined": false
-      },
-      {
-        "text": "adult",
-        "alias": "movieGenre",
-        "meta": "@movieGenre",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "comedy",
-        "alias": "movieGenre",
-        "meta": "@movieGenre",
-        "userDefined": false
-      },
-      {
-        "text": " ?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "9cab0c44-4ec0-4e51-b0b7-bf6cde3bd265",
-    "data": [
-      {
-        "text": "suggest a good movie to watch",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "3eac325f-744d-40b2-a969-e4594255786d",
-    "data": [
-      {
-        "text": "suggest a movie",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "fa3cc4ca-8ca5-408d-b1ee-5907d8c73bca",
-    "data": [
-      {
-        "text": "what are my personal movie suggestions",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "63b83086-2cff-472a-aa8f-6ca29d660897",
-    "data": [
-      {
-        "text": "back to the list of movies",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "403ad930-036f-406c-bbae-2fcba9218794",
-    "data": [
-      {
-        "text": "what movies did you recommend me again?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "f5533fe2-7552-4042-9ef2-ca23f1f524f8",
-    "data": [
-      {
-        "text": "I want an ",
-        "userDefined": false
-      },
-      {
-        "text": "action",
-        "alias": "movieGenre",
-        "meta": "@movieGenre",
-        "userDefined": false
-      },
-      {
-        "text": " and ",
-        "userDefined": false
-      },
-      {
-        "text": "comedy",
-        "alias": "movieGenre",
-        "meta": "@movieGenre",
-        "userDefined": false
-      },
-      {
-        "text": " movie",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "094671ff-9303-4b70-95c0-6de1a2d8c59d",
+    "id": "10b8403a-b877-444d-86ea-ac6a7cb4062c",
     "data": [
       {
         "text": "recommend me an ",
@@ -232,85 +414,23 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530752574
   },
   {
-    "id": "a7dbdf6a-6c1e-4e05-bf45-ccb90e3548d7",
+    "id": "493e4faa-4111-42e0-aa22-82cabb56e857",
     "data": [
       {
-        "text": "get another movie recommendation",
+        "text": "get a movie recommendation",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 1,
+    "updated": 1530752574
   },
   {
-    "id": "831bfc94-4390-4e9e-9f48-fb7d3f2e4c52",
-    "data": [
-      {
-        "text": "what is a ",
-        "userDefined": false
-      },
-      {
-        "text": "funny",
-        "alias": "movieGenre",
-        "meta": "@movieGenre",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "scary",
-        "alias": "movieGenre",
-        "meta": "@movieGenre",
-        "userDefined": false
-      },
-      {
-        "text": " movie?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "a79ee911-1ab0-4f3c-9350-acaf9c180005",
-    "data": [
-      {
-        "text": "what movies do you think I\u0027d like",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "2d0fe87f-ecd9-43c0-a3ae-bcfb2ed4cb90",
-    "data": [
-      {
-        "text": "what are some movies I would like",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "d96f1a22-65a8-43b2-b572-54047ef70407",
-    "data": [
-      {
-        "text": "show me movies in a carousel",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "1edbf135-b743-48de-b969-9f1c5064d57b",
+    "id": "9e2f39f4-9f23-4877-9833-daf47a3de20b",
     "data": [
       {
         "text": "can you recommend me a ",
@@ -338,32 +458,59 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530752574
   },
   {
-    "id": "bd99eb26-6c88-4701-9314-f195ce814bfc",
+    "id": "a6b3aad7-3f77-490b-8b27-250ae65bbb31",
     "data": [
       {
-        "text": "get a movie recommendation",
+        "text": "what movies are there to watch",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 1
+    "count": 0,
+    "updated": 1530752574
   },
   {
-    "id": "a839156b-11b9-4d58-aab1-48427cd2bd7e",
+    "id": "c5d56bd7-6631-484c-aa21-b4b1c352e348",
     "data": [
       {
-        "text": "what movie should I watch",
+        "text": "get another movie recommendation",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530752574
   },
   {
-    "id": "5bd8cca9-515d-4f9e-a7f5-a1fb82fcd781",
+    "id": "f7bba8bd-22e9-477a-add4-cee48f286956",
+    "data": [
+      {
+        "text": "suggest a movie to watch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "83382c06-d985-49a2-8265-d6dd79ceecb3",
+    "data": [
+      {
+        "text": "what movies do you think I\u0027d like",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "ef126d3d-a612-4227-9428-866a415ea61c",
     "data": [
       {
         "text": "recommendation",
@@ -371,10 +518,23 @@
       }
     ],
     "isTemplate": false,
-    "count": 1
+    "count": 1,
+    "updated": 1530752574
   },
   {
-    "id": "07a0ea6b-ee73-4161-bbdc-fb437e413869",
+    "id": "a5897fb6-ced9-4f08-b180-11ed56d84dc5",
+    "data": [
+      {
+        "text": "suggest a movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "ec2c5e99-2d48-40d0-92ac-a51d6f064105",
     "data": [
       {
         "text": "what movies do you believe I may like",
@@ -382,21 +542,181 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530752574
   },
   {
-    "id": "f3158abd-2997-4f08-94e7-e6c3d8b48fff",
+    "id": "60694819-db32-451f-a69e-c77409d1797d",
     "data": [
       {
-        "text": "recommend me",
+        "text": "suggest a good movie to watch",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530752574
   },
   {
-    "id": "0f9c648c-7aad-4f0e-bc50-386af2c840f3",
+    "id": "ecbdcaf7-74ce-485b-b0e9-0ed745459c7d",
+    "data": [
+      {
+        "text": "I want an ",
+        "userDefined": false
+      },
+      {
+        "text": "action",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "comedy",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "245ba379-6916-4cef-96f8-f3f11933ed0c",
+    "data": [
+      {
+        "text": "recommend movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "80047fe0-2bb9-4e76-81ff-d4439b2a276d",
+    "data": [
+      {
+        "text": "return to recommended movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "725cd393-e618-451d-9b7c-88c7af6873ec",
+    "data": [
+      {
+        "text": "show me movies in a carousel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "f4ca941e-2cce-4af5-85ac-2abc32602713",
+    "data": [
+      {
+        "text": "what movie should I watch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "eb908555-993d-48e4-9acf-cc93850ca5cd",
+    "data": [
+      {
+        "text": "What are some ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "alias": "voting",
+        "meta": "@voting",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Action",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Comedies",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "4fea8076-c4da-4bca-8393-0f811884e782",
+    "data": [
+      {
+        "text": "back to movie suggestions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "b95f875a-b42a-4925-9f3f-ce83af7dd428",
+    "data": [
+      {
+        "text": "suggest to me a movie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "1ca62108-1253-435e-8b25-dedef4d03a04",
+    "data": [
+      {
+        "text": "what movies did you recommend me again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "0139003e-e08d-40c7-8ef0-5887ba1c2c71",
     "data": [
       {
         "text": "Can I have a ",
@@ -424,21 +744,79 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530752574
   },
   {
-    "id": "b82ebffb-76d1-490d-a594-a918d930d611",
+    "id": "d1842a42-0c9a-4e0a-a503-268f3ac4df6a",
     "data": [
       {
-        "text": "suggest to me a movie",
+        "text": "recommend me",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530752574
   },
   {
-    "id": "6d38ba99-820d-4156-ae1f-71938406ec83",
+    "id": "8c0bd333-aa31-4edc-be24-9392fbdd1426",
+    "data": [
+      {
+        "text": "what are my personal movie suggestions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "fde3185f-9547-42ae-8094-0a38f285f91b",
+    "data": [
+      {
+        "text": "what are some movies I would like",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "8b8ce5ed-df4b-458c-b65b-5db65d573ff3",
+    "data": [
+      {
+        "text": "what is a ",
+        "userDefined": false
+      },
+      {
+        "text": "funny",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "scary",
+        "alias": "movieGenre",
+        "meta": "@movieGenre",
+        "userDefined": false
+      },
+      {
+        "text": " movie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530752574
+  },
+  {
+    "id": "bd33c218-5bb1-4036-a5a7-f0e646916497",
     "data": [
       {
         "text": "recommend me a movie",
@@ -446,17 +824,7 @@
       }
     ],
     "isTemplate": false,
-    "count": 0
-  },
-  {
-    "id": "2e8c8613-ac80-4a8c-a05d-73481582d46f",
-    "data": [
-      {
-        "text": "recommend movie",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0
+    "count": 0,
+    "updated": 1530752574
   }
 ]

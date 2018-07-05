@@ -1,21 +1,18 @@
 {
-  "id": "31d3208f-7f9b-49c9-86f2-493081f877d2",
+  "id": "74b40085-cf87-463a-81e7-6ebeec1f3a60",
+  "parentId": "9ce9cf83-024d-435d-aa57-18d43c3fdd4d",
+  "rootParentId": "9ce9cf83-024d-435d-aa57-18d43c3fdd4d",
   "name": "goat.fallback",
   "auto": false,
   "contexts": [
-    "goat"
+    "goat",
+    "goat-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "goat.Fallback",
-      "affectedContexts": [
-        {
-          "name": "goat",
-          "parameters": {},
-          "lifespan": 1
-        }
-      ],
+      "action": "goat.fallback",
+      "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
@@ -30,8 +27,8 @@
   ],
   "priority": 500000,
   "webhookUsed": true,
-  "webhookForSlotFilling": true,
-  "lastUpdate": 1512840452,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530659921,
   "fallbackIntent": true,
   "events": [
     {

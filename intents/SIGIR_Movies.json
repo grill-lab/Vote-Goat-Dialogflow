@@ -1,25 +1,28 @@
 {
-  "id": "d86effb6-b037-4011-aba4-84e2f7930112",
-  "name": "getHelpAnywhere",
+  "id": "33ab44de-18f3-4d9a-8bc9-a70a6c8dbd17",
+  "name": "SIGIR_Movies",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "getHelpAnywhere",
       "affectedContexts": [
         {
-          "name": "help_anywhere",
-          "parameters": {},
-          "lifespan": 1
-        },
-        {
-          "name": "getHelpAnywhere-followup",
+          "name": "SIGIR_Movies-followup",
           "parameters": {},
           "lifespan": 2
         }
       ],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "ee64b2ff-7ce1-4a15-ae28-36eddc13b8b9",
+          "required": false,
+          "dataType": "@movieGenre",
+          "name": "movieGenre",
+          "value": "$movieGenre",
+          "isList": true
+        }
+      ],
       "messages": [
         {
           "type": 0,
@@ -34,7 +37,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1519735312,
+  "lastUpdate": 1530753942,
   "fallbackIntent": false,
   "events": []
 }
