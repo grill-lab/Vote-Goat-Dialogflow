@@ -1,6 +1,210 @@
 [
   {
-    "id": "226cf6b0-864f-4fd2-aad7-80b0057be505",
+    "id": "5795c329-2a93-4010-be1b-ba050bda7e79",
+    "data": [
+      {
+        "text": "stop this app from interrupting us",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531222313
+  },
+  {
+    "id": "3508235f-fc72-466c-be5f-e820be8b39ca",
+    "data": [
+      {
+        "text": "stop this bot from interrupting us",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531222313
+  },
+  {
+    "id": "d5d48b5d-150e-4b79-8a4f-d4a0e56ba497",
+    "data": [
+      {
+        "text": "exit vote goat chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531222313
+  },
+  {
+    "id": "f286d37f-7321-424a-952f-2b90eb9b6a18",
+    "data": [
+      {
+        "text": "stop vote goat talking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531222313
+  },
+  {
+    "id": "a86fa4dc-557e-4439-af17-38bed68c5498",
+    "data": [
+      {
+        "text": "shut up vote goat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531222313
+  },
+  {
+    "id": "48f1a1d1-33e8-43aa-b9d7-e406111d902a",
+    "data": [
+      {
+        "text": "stop talking vote goat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531222313
+  },
+  {
+    "id": "aad09753-1e80-4082-81a5-5aece21a20c3",
+    "data": [
+      {
+        "text": "i\u0027m done with this conversation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531222313
+  },
+  {
+    "id": "03f24b80-a521-48ae-a327-7b8edc4f12e4",
+    "data": [
+      {
+        "text": "i\u0027m done for now thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531222313
+  },
+  {
+    "id": "03702657-35b0-45a4-aa43-c8d5b39ab5e5",
+    "data": [
+      {
+        "text": "leave vote goat immediately",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531222313
+  },
+  {
+    "id": "9cf4acd7-0568-4ec2-bbba-39b023fa73f4",
+    "data": [
+      {
+        "text": "quit vote goat now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531222313
+  },
+  {
+    "id": "43617ba9-450c-40ad-b6f8-5723023530a0",
+    "data": [
+      {
+        "text": "get out of vote goat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531222313
+  },
+  {
+    "id": "ccd95c0d-5fa0-4168-8c88-3167e6a8ff3f",
+    "data": [
+      {
+        "text": "please let me go",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530881639
+  },
+  {
+    "id": "985f43dc-5dc1-4172-ab53-6fe68544baaa",
+    "data": [
+      {
+        "text": "let me leave please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530881639
+  },
+  {
+    "id": "94473ae7-ce6b-4e8b-bf98-0b6ad86c82cd",
+    "data": [
+      {
+        "text": "thanks but i\u0027ll be leaving now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530881639
+  },
+  {
+    "id": "eea41232-807d-4ff0-b571-cb827ac61f7f",
+    "data": [
+      {
+        "text": "I don\u0027t want to continue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530881639
+  },
+  {
+    "id": "be07a5cc-4d46-4b80-9e98-678bc3707b73",
+    "data": [
+      {
+        "text": "I do not need any further assistance finding movies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530881639
+  },
+  {
+    "id": "d6220f26-1487-496d-848b-4a58c970b4e0",
+    "data": [
+      {
+        "text": "sorry nothing is required",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530881639
+  },
+  {
+    "id": "52a6ea3c-d73b-40e8-9f53-9171c5612c37",
     "data": [
       {
         "text": "I wish vote goat would stop talking",
@@ -9,10 +213,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "ed9a0006-a0e7-43bd-bc00-3407c273fc82",
+    "id": "e4326b0f-a8e2-4f11-94be-18728e1aabeb",
     "data": [
       {
         "text": "get out of chat",
@@ -21,10 +225,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "6cec1df9-868a-496c-924c-c0ce56a09c41",
+    "id": "15918f55-d6d5-40b2-85d5-5514baccd3a0",
     "data": [
       {
         "text": "get out of conversation",
@@ -33,10 +237,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "9f265b2f-2258-4a7b-815a-78ca714b8d18",
+    "id": "17cec6ed-1102-4317-92a5-ba5324505ed8",
     "data": [
       {
         "text": "clear off",
@@ -45,10 +249,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "45d7416b-6e82-4f66-bcf6-3628fdbc0c03",
+    "id": "411b31f7-1961-4c48-83c5-24834d2b579c",
     "data": [
       {
         "text": "shoo",
@@ -57,10 +261,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "4ff3ba05-acb0-4828-8467-dfab3e2f2fab",
+    "id": "ea7bd037-5936-4b13-8f60-e29dd1624076",
     "data": [
       {
         "text": "buzz off",
@@ -69,10 +273,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "4cfef518-3bdc-4981-9e72-b25d2527cfa9",
+    "id": "6a543f7a-90e4-4acc-b691-b04adfd68ded",
     "data": [
       {
         "text": "make oneself scarce",
@@ -81,10 +285,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "9483fe5b-4aac-4f58-b04b-635721eab77f",
+    "id": "75d2705b-adbd-44df-b54e-89ccf887b094",
     "data": [
       {
         "text": "I wish to retire for the night",
@@ -93,10 +297,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "9ec75624-ada6-4621-ba56-adad4763d46b",
+    "id": "4c89843e-2dc1-481d-b80a-0cce5fa3dd29",
     "data": [
       {
         "text": "I give up",
@@ -105,10 +309,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "768e42f2-b71e-443c-be9d-630168de22e2",
+    "id": "ef273c3f-306e-4be1-86aa-37e26a90cc1b",
     "data": [
       {
         "text": "get lost",
@@ -117,10 +321,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "cbea4881-00e3-45be-9dd4-0c50804ad705",
+    "id": "b206e5d1-30c5-4587-bd5e-61253921e7d3",
     "data": [
       {
         "text": "end our chat",
@@ -129,10 +333,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "e66cce95-fe57-4749-85e8-3ed442665e78",
+    "id": "814e9cdc-be4d-4ac8-9692-d70cf07bff45",
     "data": [
       {
         "text": "end our conversation",
@@ -141,10 +345,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "55adea9b-3050-4b43-b950-115de244d4e8",
+    "id": "3c08b62d-243e-4954-adeb-471b5bcffd7c",
     "data": [
       {
         "text": "stop our conversation",
@@ -153,10 +357,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "188340a2-d9d7-4b8c-aac7-61be4bdafcb0",
+    "id": "b24e319b-3d90-4e5b-ab44-f7fa8b8218af",
     "data": [
       {
         "text": "end our session",
@@ -165,10 +369,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "7018189c-ce54-4ffc-890d-e4f7f7bbe9ac",
+    "id": "76c4f25c-7797-4992-ae27-6151c452ce3a",
     "data": [
       {
         "text": "I\u0027m bored of using vote goat",
@@ -177,10 +381,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "8c7ec13b-d35d-4f84-a9e3-3300933c583c",
+    "id": "4da506a7-f933-48cd-92c6-485088416724",
     "data": [
       {
         "text": "leave me alone",
@@ -189,10 +393,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "6af35c60-5fd8-4425-8060-91eccde8628c",
+    "id": "0d0b5f9e-4942-471e-ae52-93ac59a81bcb",
     "data": [
       {
         "text": "go away",
@@ -201,10 +405,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "5e44ca2c-e5df-40a8-8332-41416e8d09dc",
+    "id": "c97c7e26-d1fa-4ef7-861d-3ecebf4c382f",
     "data": [
       {
         "text": "abandon ship",
@@ -213,10 +417,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "4c31d437-1ffc-4a00-9fca-d1d40d23205a",
+    "id": "14fbfefd-2c50-4cc8-a32e-273e6a699346",
     "data": [
       {
         "text": "abandon vote goat",
@@ -225,10 +429,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "08eff5bb-a006-4645-b278-c88cb2a0942b",
+    "id": "1fc8a1e2-585a-4a84-b509-da9e3f95dc15",
     "data": [
       {
         "text": "let me leave",
@@ -237,10 +441,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "298811ef-7521-471c-bd83-c834aaab0a08",
+    "id": "32fc8545-1c59-4653-922e-70ad37ad4dab",
     "data": [
       {
         "text": "get out",
@@ -249,10 +453,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "158256d6-39ef-4b79-a2ea-bb9812619122",
+    "id": "58a33b6f-b64e-4c2b-a5d3-02e9c5628409",
     "data": [
       {
         "text": "🚪 Quit",
@@ -261,10 +465,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "823d1092-2883-4bc4-baf4-f72e30099e0b",
+    "id": "04787593-33fd-4d09-99f3-82b832b51531",
     "data": [
       {
         "text": "I want to stop using vote goat for now",
@@ -273,10 +477,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "6b7f3e8b-8b4e-4bd7-a364-0bb0cb13e5be",
+    "id": "fd977233-cdcc-4429-aa98-1a1c916a2bac",
     "data": [
       {
         "text": "go away vote goat",
@@ -285,10 +489,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "fb0d51a0-4eb6-4c67-bf92-77e9a4c10488",
+    "id": "424169b7-b483-41d7-9402-9cc8cdf44ed1",
     "data": [
       {
         "text": "go back to google",
@@ -297,10 +501,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "8e848c30-d4e4-4dc0-a79d-76f22db552e2",
+    "id": "e329a025-c21a-4713-83d8-142199b628fd",
     "data": [
       {
         "text": "leave",
@@ -309,10 +513,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "68e0eb4b-26de-43bd-a7a2-34095bbd8d9d",
+    "id": "9316e10f-4c3a-4923-a519-44aef0bc8cb1",
     "data": [
       {
         "text": "goodbye",
@@ -321,10 +525,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1530881639
   },
   {
-    "id": "407aa76d-0a51-4a83-af03-a8b2b86e664a",
+    "id": "f6fb3787-4512-4e38-a73c-a68efc1e5f15",
     "data": [
       {
         "text": "I want to leave vote goat",
@@ -333,10 +537,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1531222313
   },
   {
-    "id": "4321e7df-2dba-4839-a894-175363fdc0b4",
+    "id": "6d5e975a-b5fc-48fd-84ad-1d8e59def61d",
     "data": [
       {
         "text": "exit vote goat",
@@ -345,10 +549,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1531222313
   },
   {
-    "id": "29a4da58-90f3-4d0c-b513-0245b69f3f79",
+    "id": "eb359814-2508-4c76-9c01-c336ef8c7fe3",
     "data": [
       {
         "text": "stop running vote goat",
@@ -357,10 +561,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1531222313
   },
   {
-    "id": "aae3ef39-81f9-4f83-adb3-13b42d9e8d50",
+    "id": "1dde3cdc-42c9-4121-a3ab-1c80b304a0b2",
     "data": [
       {
         "text": "leave vote goat",
@@ -369,10 +573,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1531222313
   },
   {
-    "id": "eff369fb-782d-4fe2-accf-a246a0a71c37",
+    "id": "4cf0f2a6-4425-4265-af29-47186a4d03ae",
     "data": [
       {
         "text": "exit",
@@ -381,10 +585,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1531222313
   },
   {
-    "id": "b3fac724-6087-4dde-a24f-9fe7138c20d9",
+    "id": "599f503e-ac5e-4f5a-bbc3-1cca38239b0a",
     "data": [
       {
         "text": "quit vote goat",
@@ -393,10 +597,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1531222313
   },
   {
-    "id": "21f1c4bc-f1d3-457e-b4c0-ab89fcf4df66",
+    "id": "a892ad69-11fb-4b61-a066-ed48add01cb5",
     "data": [
       {
         "text": "I don\u0027t want to use vote goat anymore",
@@ -405,10 +609,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1531222313
   },
   {
-    "id": "bc8a4ea0-2f49-44e9-82c9-5e703ec52295",
+    "id": "e5cdaf4f-1ed8-4813-813b-452d9ed9468f",
     "data": [
       {
         "text": "return to google",
@@ -417,10 +621,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1531222313
   },
   {
-    "id": "5c6b463a-822d-437f-a4f6-21303cdc690f",
+    "id": "430ea038-c2a6-454f-bf8d-b18daa74b92e",
     "data": [
       {
         "text": "quit",
@@ -429,10 +633,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1531222313
   },
   {
-    "id": "1d3e1a79-b6cf-439a-a1a5-7490f5008035",
+    "id": "65985027-2d09-417c-8fb3-46b8f24584fe",
     "data": [
       {
         "text": "goodbye vote goat",
@@ -441,6 +645,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1530703807
+    "updated": 1531222313
   }
 ]

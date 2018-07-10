@@ -16,19 +16,9 @@
           "lifespan": 1
         },
         {
-          "name": "forward_genre_more",
-          "parameters": {},
-          "lifespan": 1
-        },
-        {
           "name": "voted-followup",
           "parameters": {},
           "lifespan": 2
-        },
-        {
-          "name": "forward_genre",
-          "parameters": {},
-          "lifespan": 1
         }
       ],
       "parameters": [
@@ -56,7 +46,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1530754184,
+  "lastUpdate": 1531150491,
   "fallbackIntent": false,
   "events": []
 }

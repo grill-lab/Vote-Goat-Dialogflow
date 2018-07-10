@@ -1,6 +1,6 @@
 [
   {
-    "id": "48e98efd-d6a8-4a7d-9cfb-26410828103f",
+    "id": "99b1dd0a-5198-425f-9d35-71e10a21812a",
     "data": [
       {
         "text": "What can I do in this bot?",
@@ -12,7 +12,7 @@
     "updated": 1512517978
   },
   {
-    "id": "bc99f7e5-c352-46da-a5df-e110bf710ccb",
+    "id": "05e4fb63-346a-47ce-85dc-c97219a687e4",
     "data": [
       {
         "text": "help",
@@ -23,7 +23,7 @@
     "count": 0
   },
   {
-    "id": "3f294843-58cf-4955-989b-8ca7f075c88b",
+    "id": "6c408f70-c32b-400e-a37b-279b618d7392",
     "data": [
       {
         "text": "📑 Help",
@@ -34,7 +34,7 @@
     "count": 0
   },
   {
-    "id": "d580d781-06b2-4444-9af7-2ff1d0f754a0",
+    "id": "9d711449-534d-4bb1-9ac7-50084016d494",
     "data": [
       {
         "text": "tell me what I can do",
@@ -45,7 +45,7 @@
     "count": 0
   },
   {
-    "id": "476e5c0f-d9ef-4fd2-aec8-38da95fffdd8",
+    "id": "71ad394c-6588-434c-87d4-e8b33a82d74b",
     "data": [
       {
         "text": "what commands does vote goat understand?",
@@ -56,7 +56,7 @@
     "count": 0
   },
   {
-    "id": "c3b1eba6-6405-46b7-8e3d-4aebe3aaf317",
+    "id": "075e1c9e-5315-4df7-880a-ba02773e0e19",
     "data": [
       {
         "text": "what does vote goat want me to say next?",
@@ -67,7 +67,7 @@
     "count": 0
   },
   {
-    "id": "d3209383-87ce-4728-8bb4-399d94a00229",
+    "id": "3af1ec92-98d1-4807-8bff-3d5660c83032",
     "data": [
       {
         "text": "I don\u0027t know",
@@ -83,7 +83,7 @@
     "count": 0
   },
   {
-    "id": "1e28018b-4df7-4a94-a396-05c93b3d4718",
+    "id": "8f63bc04-44df-4d54-8763-f37450c45ae0",
     "data": [
       {
         "text": "What should I do next?",
@@ -95,7 +95,7 @@
     "updated": 1512517978
   },
   {
-    "id": "9a7f6d44-b5e1-44d4-97d9-d1871cfe2bcb",
+    "id": "38533b15-f1c9-4a19-be9c-6cf94600fb6b",
     "data": [
       {
         "text": "help ",
@@ -115,7 +115,7 @@
     "count": 0
   },
   {
-    "id": "5f254091-344f-4c26-aa56-bd76637239fd",
+    "id": "aecc8540-9e7f-4bf4-b0e5-214de33bb3be",
     "data": [
       {
         "text": "What can I do in this app?",
@@ -127,7 +127,7 @@
     "updated": 1512517978
   },
   {
-    "id": "27cf3a6a-9c16-4fd6-a7d7-dfcd9b2911ef",
+    "id": "5e92c3c0-be7c-41d6-b820-5cd4c2d55ec9",
     "data": [
       {
         "text": "can you tell me what I can do next?",
@@ -138,7 +138,7 @@
     "count": 0
   },
   {
-    "id": "67d72f70-08d4-49bb-bc46-405e9954b2a0",
+    "id": "2ff30c08-fbb8-44c6-a8f0-fe9fc957fdca",
     "data": [
       {
         "text": "What functionality is there?",
@@ -150,7 +150,7 @@
     "updated": 1512517978
   },
   {
-    "id": "e31f6694-dbb0-43b9-8013-c51e4e7f2505",
+    "id": "bc1b18d8-c280-4d82-b3ee-31ce4b06285f",
     "data": [
       {
         "text": "what should I say to vote goat?",
@@ -161,7 +161,7 @@
     "count": 0
   },
   {
-    "id": "411e74c9-2f75-413f-8d99-7475e28e4843",
+    "id": "b193db9f-2d1e-4943-8976-8c548857814d",
     "data": [
       {
         "text": "what can vote goat do?",
@@ -172,7 +172,7 @@
     "count": 0
   },
   {
-    "id": "309ba7b3-d093-402c-83ed-b1d1564371ac",
+    "id": "ca7d511f-c380-4b33-b577-57e47b00b831",
     "data": [
       {
         "text": "learn how to use vote goat",
@@ -183,7 +183,7 @@
     "count": 0
   },
   {
-    "id": "64f358d7-1801-4860-b68a-4522dfa2f02c",
+    "id": "b2ef4e6f-d1d6-4403-ac7d-7aa8919b65fd",
     "data": [
       {
         "text": "what can I do?",
@@ -194,7 +194,7 @@
     "count": 0
   },
   {
-    "id": "a25ee76a-4944-4897-9530-4c685c31296a",
+    "id": "fcd67252-1dec-4701-b99c-b94b83cb16bc",
     "data": [
       {
         "text": "What can I do next?",

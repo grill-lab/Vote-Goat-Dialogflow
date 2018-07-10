@@ -22,6 +22,11 @@
           "name": "recommend_movie_context",
           "parameters": {},
           "lifespan": 1
+        },
+        {
+          "name": "vote_context",
+          "parameters": {},
+          "lifespan": 1
         }
       ],
       "parameters": [
@@ -50,7 +55,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": true,
-  "lastUpdate": 1530752574,
+  "lastUpdate": 1531150429,
   "fallbackIntent": false,
   "events": []
 }

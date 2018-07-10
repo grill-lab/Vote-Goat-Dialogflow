@@ -16,7 +16,7 @@
         {
           "name": "Welcome-followup",
           "parameters": {},
-          "lifespan": 2
+          "lifespan": 1
         }
       ],
       "parameters": [],
@@ -44,7 +44,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1530754299,
+  "lastUpdate": 1531141637,
   "fallbackIntent": false,
   "events": [
     {

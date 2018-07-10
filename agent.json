@@ -1,12 +1,12 @@
 {
-  "description": "Vote Goat aims to crowd source movie ratings and provide accurate movie recommendations",
+  "description": "Vote Goat aims to crowd source movie ratings and provide movie recommendations",
   "language": "en",
   "activeAssistantAgents": [],
   "disableInteractionLogs": false,
   "disableStackdriverLogs": true,
   "googleAssistant": {
     "googleAssistantCompatible": true,
-    "project": "botname",
+    "project": "project_name",
     "welcomeIntentSignInRequired": false,
     "startIntents": [
       {
@@ -38,9 +38,9 @@
   },
   "defaultTimezone": "Europe/Madrid",
   "webhook": {
-    "url": "",
+    "url": "WEBHOOK_URL_REPLACE_ME",
     "headers": {
-      "authentication_key": "authentication_key_value",
+      "KEY": "VALUE",
       "": ""
     },
     "available": true,
